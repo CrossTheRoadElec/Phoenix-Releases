@@ -20,7 +20,8 @@ Note: Phoenix Tuner is also installed in the FRC Kickoff Phoenix Installer.  Thi
 5. Wait for a connection, and you're good to go
 
 Note: This requires a 2019 formatted roboRIO.
-Note: Recommended monitor resolution is 1920 X 1080.  Future releases will better support higher resolutions/higher dpi.
+
+Note: Recommended monitor **resolution is 1920 X 1080**.  Future releases will better support higher resolutions/higher dpi.
 
 ### Documentation:
 This will be available prior to Kickoff (docs are being moved currently).
