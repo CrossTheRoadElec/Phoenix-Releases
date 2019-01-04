@@ -6,7 +6,7 @@
 ### What is this?
 This repository  holds binary releases for Phoenix Tuner.  Tuner is the 2019 replacement for the FRC Web-Based Configuration Utility that was provided during the previous years. It currently includes all the features of the Web-Based Config with aspirations to include more.
 
-Note: Phoenix Tuner is also installed in the FRC Kickoff Phoenix Installer.
+Note: Phoenix Tuner is also installed in the FRC Kickoff Phoenix Installer.  This repository allows for minor updates without cutting an entirely new Phoenix Installer.
 
 ### Release Contents:
  - Binary files under CTRE.Phoenix.Diagnostics/Binary/ that contains the Server Executable and startup scripts to automatically run the server on RoboRIO startup.
@@ -20,6 +20,7 @@ Note: Phoenix Tuner is also installed in the FRC Kickoff Phoenix Installer.
 5. Wait for a connection, and you're good to go
 
 Note: This requires a 2019 formatted roboRIO.
+Note: Recommended monitor resolution is 1920 X 1080.  Future releases will better support higher resolutions/higher dpi.
 
 ### How it works:
 Tuner installs the Phoenix diganostics server, an HTTP server that the client is able to query and retrieve information from. The client does this with HTTP requests, while the server responds with the specified information.
