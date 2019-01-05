@@ -24,7 +24,8 @@ Note: This requires a 2019 formatted roboRIO.
 Note: Recommended monitor **resolution is 1920 X 1080**.  Future releases will better support higher resolutions/higher dpi.
 
 ### Documentation:
-This will be available prior to Kickoff (docs are being moved currently).
+Phoenix Tuner use cases are explained here...
+https://phoenix-documentation.readthedocs.io/en/latest/
 
 ### How it works:
 Tuner installs the Phoenix diganostics server, an HTTP server that the client is able to query and retrieve information from. The client does this with HTTP requests, while the server responds with the specified information.
