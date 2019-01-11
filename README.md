@@ -1,3 +1,9 @@
+# Release Repository for Phoenix-Framework and Phoenix-Tuner
+
+# Phoenix Framework (Installer includes Tuner)
+
+https://phoenix-documentation.readthedocs.io/en/latest/ch03_PrimerPhoenixSoft.html
+
 # Phoenix Tuner
 
 ![image](https://user-images.githubusercontent.com/14191527/50705437-d16f9d80-1028-11e9-83a9-d9c69bba1a66.png)
