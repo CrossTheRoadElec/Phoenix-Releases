@@ -3,7 +3,7 @@ This is a release repository for users who prefer the GitHub interface over down
 
 This also allows for GitHub users to press "Watch", so that they are made aware when new software is available.
 
-# Phoenix Framework (Installer includes Tuner) 
+# Phoenix Framework (Installer includes Tuner)  
 
 https://phoenix-documentation.readthedocs.io/en/latest/ch03_PrimerPhoenixSoft.html
 
