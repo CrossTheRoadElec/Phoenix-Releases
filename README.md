@@ -65,3 +65,4 @@ Every http request is sent with a modified url. The url is based on this templat
     - getconfig
     - setconfig
  - furtherArgs - These are arguments specific to a certain command. As of the time of this writing this includes only setid and setname, as a new id/name must be specified in the url to set these names to.
+
