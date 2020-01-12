@@ -44,12 +44,13 @@ Every http request is sent with a modified url. The url is based on this templat
 `http://<address>:<port>/?device=<model>&id=<id>&action=<action>&<furtherArgs>`
  - address - This is the address of the target the server is on. For a RoboRIO it will be 172.22.11.2 over USB, and 10.TE.AM.x over ethernet/wifi.
  - port - This is the port of the serveras specified in the startup script. This can be changed in the script by the user if they want a different port. By default it is **1250**.
- - model - This is a string literal of the model of the target device. It can be: 
-    - srx
-    - spx
-    - canif
+ - model - This is a string literal of the model of the target device. It is the same string under the Model column in Tuner.
+    - talon srx
+    - talon fx
+    - victor spx
+    - canifier
     - pigeon
-    - ribbonPigeon
+    - pigeon over ribbon
     - pcm
     - pdp
  - id - This is the id of the target device.
