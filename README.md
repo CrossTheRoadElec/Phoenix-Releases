@@ -5,7 +5,7 @@ This also allows for GitHub users to press "Watch", so that they are made aware 
 
 # Phoenix Framework (Installer includes Tuner)  
 
-https://phoenix-documentation.readthedocs.io/en/latest/ch03_PrimerPhoenixSoft.html
+https://docs.ctre-phoenix.com/en/stable/ch03_PrimerPhoenixSoft.html
 
 # Phoenix Tuner 
 
@@ -34,7 +34,7 @@ Note: Recommended monitor **resolution is 1920 X 1080**.  Future releases will b
 
 ### Documentation:
 Phoenix Tuner use cases are explained here...
-https://phoenix-documentation.readthedocs.io/en/latest/
+https://docs.ctre-phoenix.com/
 
 ### How it works:
 Tuner installs the Phoenix diganostics server, an HTTP server that the client is able to query and retrieve information from. The client does this with HTTP requests, while the server responds with the specified information.
