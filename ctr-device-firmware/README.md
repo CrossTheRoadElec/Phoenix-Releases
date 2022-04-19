@@ -1,7 +1,8 @@
 # CTR Electronics Device Firmware
 This folder contains the latest firmware files for all CTR Electronics devices.
 
-A zip of this folder can be found as a sibling folder in the repository root.
+A zip of this folder can be found as a sibling folder in the repository root.  
+Direct Download Link: https://github.com/CrossTheRoadElec/Phoenix-Releases/raw/master/ctr-device-firmware.zip
 
 ## Where are the non-FRC firmware files?
 The only device with a dedicated non-FRC firmware file is the PCM.
