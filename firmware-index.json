@@ -1,0 +1,78 @@
+{
+  "TalonSRX": {
+    "latest": "TalonSRX-Application-22.1-season2022.crf",
+    "releases": [
+      "TalonSRX-Application-22.1-season2022.crf",
+      "TalonSRX-Application-22.0-season2022.crf"
+    ]
+  },
+  "VictorSPX": {
+    "latest": "VictorSPX-Application-22.1-season2022.crf",
+    "releases": [
+      "VictorSPX-Application-22.1-season2022.crf",
+      "VictorSPX-Application-22.0-season2022.crf"
+    ]
+  },
+  "TalonFX": {
+    "latest": "TalonFX-Application-22.1.0.0-season2022.crf",
+    "releases": [
+      "TalonFX-Application-22.1.0.0-season2022.crf",
+      "TalonFX-Application-22.0.0.0-season2022.crf"
+    ]
+  },
+  "Pigeon2": {
+    "latest": "Pigeon2-Application-22.6.1.0-season2022.crf",
+    "releases": [
+      "Pigeon2-Application-22.6.1.0-season2022.crf"
+    ]
+  },
+  "Pigeon": {
+    "latest": "Pigeon-Application-22.0-season2022.crf",
+    "releases": [
+      "Pigeon-Application-22.0-season2022.crf"
+    ]
+  },
+  "PowerDistributionBoard": {
+    "latest": "PDP-Application-1.40.crf",
+    "releases": [
+      "PDP-Application-1.40.crf"
+    ]
+  },
+  "PneumaticsControlModule": {
+    "latest": "PCM-Application-1.65.crf",
+    "no-frc": "PCM-Application-10.00-nonFRC.crf",
+    "releases": [
+      "PCM-Application-1.65.crf"
+    ]
+  },
+  "CANivore": {
+    "latest": "CANivore-Application-22.2.0.0-season2022.crf",
+    "releases": [
+      "CANivore-Application-22.2.0.0-season2022.crf",
+      "CANivore-Application-22.1.0.1-season2022.crf"
+    ]
+  },
+  "CANifier": {
+    "latest": "CANifier-Application-22.0-season2022.crf",
+    "releases": [
+      "CANifier-Application-22.0-season2022.crf"
+    ]
+  },
+  "CANdle": {
+    "latest": "CANdle-Application-22.1.1.0-season2022.crf",
+    "releases": [
+      "CANdle-Application-22.1.1.0-season2022.crf",
+      "CANdle-Application-22.0.1.0-season2022.crf"
+    ]
+  },
+  "CANCoder": {
+    "latest": "CANCoder-Application-22.0.1.2-season2022.crf",
+    "releases": [
+      "CANCoder-Application-22.0.1.2-season2022.crf",
+      "CANCoder-Application-22.0.0.0-season2022.crf"
+    ]
+  },
+  "Miscellaneous": {
+    "hero": "hero_netmf-1.2.0.0-TimeoutErrorCode.crf"
+  }
+}
