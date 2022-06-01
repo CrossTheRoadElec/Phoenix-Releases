@@ -1,5 +1,7 @@
 {
+  "Version": "0.0.1.0",
   "TalonSRX": {
+    "latestVer": "22.1",
     "latest": "TalonSRX-Application-22.1-season2022.crf",
     "releases": [
       "TalonSRX-Application-22.1-season2022.crf",
@@ -7,6 +9,7 @@
     ]
   },
   "VictorSPX": {
+    "latestVer": "22.1",
     "latest": "VictorSPX-Application-22.1-season2022.crf",
     "releases": [
       "VictorSPX-Application-22.1-season2022.crf",
@@ -14,6 +17,7 @@
     ]
   },
   "TalonFX": {
+    "latestVer": "22.1.0.0",
     "latest": "TalonFX-Application-22.1.0.0-season2022.crf",
     "releases": [
       "TalonFX-Application-22.1.0.0-season2022.crf",
@@ -21,24 +25,28 @@
     ]
   },
   "Pigeon2": {
+    "latestVer": "22.1.0.0",
     "latest": "Pigeon2-Application-22.6.1.0-season2022.crf",
     "releases": [
       "Pigeon2-Application-22.6.1.0-season2022.crf"
     ]
   },
   "Pigeon": {
+    "latestVer": "22.0",
     "latest": "Pigeon-Application-22.0-season2022.crf",
     "releases": [
       "Pigeon-Application-22.0-season2022.crf"
     ]
   },
   "PowerDistributionBoard": {
+    "latestVer":  "1.40",
     "latest": "PDP-Application-1.40.crf",
     "releases": [
       "PDP-Application-1.40.crf"
     ]
   },
   "PneumaticsControlModule": {
+    "latestVer": "1.65",
     "latest": "PCM-Application-1.65.crf",
     "no-frc": "PCM-Application-10.00-nonFRC.crf",
     "releases": [
@@ -46,6 +54,7 @@
     ]
   },
   "CANivore": {
+    "latestVer": "22.2.0.0",
     "latest": "CANivore-Application-22.2.0.0-season2022.crf",
     "releases": [
       "CANivore-Application-22.2.0.0-season2022.crf",
@@ -53,12 +62,14 @@
     ]
   },
   "CANifier": {
+    "latestVer": "22.0",
     "latest": "CANifier-Application-22.0-season2022.crf",
     "releases": [
       "CANifier-Application-22.0-season2022.crf"
     ]
   },
   "CANdle": {
+    "latestVer": "22.1.1.0",
     "latest": "CANdle-Application-22.1.1.0-season2022.crf",
     "releases": [
       "CANdle-Application-22.1.1.0-season2022.crf",
@@ -66,6 +77,7 @@
     ]
   },
   "CANCoder": {
+    "latestVer": "22.0.1.2",
     "latest": "CANCoder-Application-22.0.1.2-season2022.crf",
     "releases": [
       "CANCoder-Application-22.0.1.2-season2022.crf",
