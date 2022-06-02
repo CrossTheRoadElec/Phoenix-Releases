@@ -38,14 +38,14 @@
       "Pigeon-Application-22.0-season2022.crf"
     ]
   },
-  "PowerDistributionBoard": {
+  "PDP": {
     "latestVer":  "1.40",
     "latest": "PDP-Application-1.40.crf",
     "releases": [
       "PDP-Application-1.40.crf"
     ]
   },
-  "PneumaticsControlModule": {
+  "PCM": {
     "latestVer": "1.65",
     "latest": "PCM-Application-1.65.crf",
     "no-frc": "PCM-Application-10.00-nonFRC.crf",
