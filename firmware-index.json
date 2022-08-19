@@ -85,6 +85,13 @@
       "CANCoder-Application-22.0.0.0-season2022.crf"
     ]
   },
+  "CANCodervH": {
+    "latestVer": "22.0.1.2",
+    "latest": "CANCoder-Application-vH-22.0.1.2-season2022.crf",
+    "releases": [
+      "CANCoder-Application-vH-22.0.1.2-season2022.crf"
+    ]
+  },
   "Miscellaneous": {
     "hero": "hero_netmf-1.2.0.0-TimeoutErrorCode.crf"
   }
