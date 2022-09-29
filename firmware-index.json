@@ -25,9 +25,10 @@
     ]
   },
   "Pigeon2": {
-    "latestVer": "22.6.1.0",
-    "latest": "Pigeon2-Application-22.6.1.0-season2022.crf",
+    "latestVer": "22.6.2.2",
+    "latest": "Pigeon2-Application-22.6.2.2-season2022.crf",
     "releases": [
+      "Pigeon2-Application-22.6.2.2-season2022.crf",
       "Pigeon2-Application-22.6.1.0-season2022.crf"
     ]
   },
