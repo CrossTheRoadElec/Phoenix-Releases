@@ -1,96 +1,116 @@
 {
-  "Version": "0.0.1.0",
+  "Version": "1.0.0.0",
   "TalonSRX": {
-    "latestVer": "22.1",
-    "latest": "TalonSRX-Application-22.1-season2022.crf",
-    "releases": [
+    "v5LatestVer": "22.1.0.0",
+    "v5Latest": "TalonSRX-Application-22.1-season2022.crf",
+    "v5Releases": [
       "TalonSRX-Application-22.1-season2022.crf",
       "TalonSRX-Application-22.0-season2022.crf"
     ]
   },
   "VictorSPX": {
-    "latestVer": "22.1",
-    "latest": "VictorSPX-Application-22.1-season2022.crf",
-    "releases": [
+    "v5LatestVer": "22.1",
+    "v5Latest": "VictorSPX-Application-22.1-season2022.crf",
+    "v5Releases": [
       "VictorSPX-Application-22.1-season2022.crf",
       "VictorSPX-Application-22.0-season2022.crf"
     ]
   },
   "TalonFX": {
-    "latestVer": "22.1.0.0",
-    "latest": "TalonFX-Application-22.1.0.0-season2022.crf",
-    "releases": [
+    "v5LatestVer": "22.1.0.0",
+    "v5Latest": "TalonFX-Application-22.1.0.0-season2022.crf",
+    "v5Releases": [
       "TalonFX-Application-22.1.0.0-season2022.crf",
       "TalonFX-Application-22.0.0.0-season2022.crf"
+    ],
+    "proLatestVer": "22.99.22.4",
+    "proLatest": "TalonFX-Application-22.99.22.4-Pro-alpha2022.crf",
+    "proReleases": [
+      "TalonFX-Application-22.99.22.4-Pro-alpha2022.crf"
     ]
   },
   "Pigeon2": {
-    "latestVer": "22.6.2.2",
-    "latest": "Pigeon2-Application-22.6.2.2-season2022.crf",
-    "releases": [
+    "v5LatestVer": "22.6.2.2",
+    "v5Latest": "Pigeon2-Application-22.6.2.2-season2022.crf",
+    "v5Releases": [
       "Pigeon2-Application-22.6.2.2-season2022.crf",
       "Pigeon2-Application-22.6.1.0-season2022.crf"
+    ],
+    "proLatestVer": "22.99.22.2",
+    "proLatest": "Pigeon2-Application-22.99.22.2-Pro-alpha2023.crf",
+    "proReleases": [
+      "Pigeon2-Application-22.99.22.2-Pro-alpha2023.crf"
     ]
   },
   "Pigeon": {
-    "latestVer": "22.0",
-    "latest": "Pigeon-Application-22.0-season2022.crf",
-    "releases": [
+    "v5LatestVer": "22.0",
+    "v5Latest": "Pigeon-Application-22.0-season2022.crf",
+    "v5Releases": [
       "Pigeon-Application-22.0-season2022.crf"
     ]
   },
   "PDP": {
-    "latestVer":  "1.40",
-    "latest": "PDP-Application-1.40.crf",
-    "releases": [
+    "v5LatestVer":  "1.40",
+    "v5Latest": "PDP-Application-1.40.crf",
+    "v5Releases": [
       "PDP-Application-1.40.crf"
     ]
   },
   "PCM": {
-    "latestVer": "1.65",
-    "latest": "PCM-Application-1.65.crf",
+    "v5LatestVer": "1.65",
+    "v5Latest": "PCM-Application-1.65.crf",
     "no-frc": "PCM-Application-10.00-nonFRC.crf",
-    "releases": [
+    "v5Releases": [
       "PCM-Application-1.65.crf"
     ]
   },
   "CANivore": {
-    "latestVer": "22.2.0.0",
-    "latest": "CANivore-Application-22.2.0.0-season2022.crf",
-    "releases": [
+    "v5LatestVer": "22.2.0.0",
+    "v5Latest": "CANivore-Application-22.2.0.0-season2022.crf",
+    "v5Releases": [
       "CANivore-Application-22.2.0.0-season2022.crf",
       "CANivore-Application-22.1.0.1-season2022.crf"
     ]
   },
   "CANifier": {
-    "latestVer": "22.0",
-    "latest": "CANifier-Application-22.0-season2022.crf",
-    "releases": [
+    "v5LatestVer": "22.0",
+    "v5Latest": "CANifier-Application-22.0-season2022.crf",
+    "v5Releases": [
       "CANifier-Application-22.0-season2022.crf"
     ]
   },
   "CANdle": {
-    "latestVer": "22.1.4.0",
-    "latest": "CANdle-Application-22.1.4.0-season2022.crf",
-    "releases": [
+    "v5LatestVer": "22.1.4.0",
+    "v5Latest": "CANdle-Application-22.1.4.0-season2022.crf",
+    "v5Releases": [
       "CANdle-Application-22.1.4.0-season2022.crf",
       "CANdle-Application-22.1.1.0-season2022.crf",
       "CANdle-Application-22.0.1.0-season2022.crf"
     ]
   },
   "CANCoder": {
-    "latestVer": "22.0.1.2",
-    "latest": "CANCoder-Application-22.0.1.2-season2022.crf",
-    "releases": [
+    "v5LatestVer": "22.0.1.2",
+    "v5Latest": "CANCoder-Application-22.0.1.2-season2022.crf",
+    "v5Releases": [
       "CANCoder-Application-22.0.1.2-season2022.crf",
       "CANCoder-Application-22.0.0.0-season2022.crf"
+    ],
+    "proLatestVer": "22.99.22.2",
+    "proLatest": "CANCoder-vK-Application-22.99.22.2-Pro-alpha2023.crf",
+    "proReleases": [
+      "CANCoder-vK-Application-22.99.22.2-Pro-alpha2023.crf"
     ]
   },
   "CANCodervers.H": {
-    "latestVer": "22.0.1.2",
-    "latest": "CANCoder-Application-vH-22.0.1.2-season2022.crf",
-    "releases": [
+    "v5LatestVer": "22.0.1.2",
+    "v5Latest": "CANCoder-Application-vH-22.0.1.2-season2022.crf",
+    "v5Releases": [
       "CANCoder-Application-vH-22.0.1.2-season2022.crf"
+    ],
+    "proLatestVer": "22.99.22.2",
+    "proLatest": "CANCoder-vH-Application-22.99.22.2-Pro-alpha2023.crf",
+    "proReleases": [
+      "CANCoder-vH-Application-22.99.22.2-Pro-alpha2023.crf"
     ]
   },
   "Miscellaneous": {
