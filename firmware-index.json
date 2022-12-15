@@ -100,9 +100,10 @@
       "CANCoder-Application-22.0.1.2-season2022.crf",
       "CANCoder-Application-22.0.0.0-season2022.crf"
     ],
-    "proLatestVer": "23.1.0.6",
-    "proLatest": "CANCoder-vK-Application-23.1.0.6-Pro-Beta6.crf",
+    "proLatestVer": "23.1.0.7",
+    "proLatest": "CANCoder-vK-Application-23.1.0.7-Pro-Beta6.crf",
     "proReleases": [
+      "CANCoder-vK-Application-23.1.0.7-Pro-Beta6.crf",
       "CANCoder-vK-Application-23.1.0.6-Pro-Beta6.crf",
       "CANCoder-vK-Application-23.0.1.0-Pro-beta2023.crf"
     ]
@@ -114,9 +115,10 @@
 	  "CANCoder-Application-vH-22.0.2.1-season2022.crf",
       "CANCoder-Application-vH-22.0.1.2-season2022.crf"
     ],
-    "proLatestVer": "23.1.0.6",
-    "proLatest": "CANCoder-vH-Application-23.1.0.6-Pro-Beta6.crf",
+    "proLatestVer": "23.1.0.7",
+    "proLatest": "CANCoder-vH-Application-23.1.0.7-Pro-Beta6.crf",
     "proReleases": [
+      "CANCoder-vH-Application-23.1.0.7-Pro-Beta6.crf",
       "CANCoder-vH-Application-23.1.0.6-Pro-Beta6.crf",
       "CANCoder-vH-Application-23.0.1.0-Pro-beta2023.crf"
     ]
