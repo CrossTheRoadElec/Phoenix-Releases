@@ -24,9 +24,10 @@
       "TalonFX-Application-22.1.0.0-season2022.crf",
       "TalonFX-Application-22.0.0.0-season2022.crf"
     ],
-    "proLatestVer": "23.3.0.6",
-    "proLatest": "TalonFX-Application-23.3.0.6-Pro-Beta6.crf",
+    "proLatestVer": "23.3.1.1",
+    "proLatest": "TalonFX-Application-23.3.1.1-Pro-Beta7.crf",
     "proReleases": [
+      "TalonFX-Application-23.3.1.1-Pro-Beta7.crf",
       "TalonFX-Application-23.3.0.6-Pro-Beta6.crf",
       "TalonFX-Application-23.0.1.0-Pro-beta2023.crf"
     ]
@@ -38,9 +39,10 @@
       "Pigeon2-Application-22.6.2.2-season2022.crf",
       "Pigeon2-Application-22.6.1.0-season2022.crf"
     ],
-    "proLatestVer": "23.1.0.6",
-    "proLatest": "Pigeon2-Application-23.1.0.6-Pro-Beta6.crf",
+    "proLatestVer": "23.1.1.1",
+    "proLatest": "Pigeon2-Application-23.1.1.1-Pro-Beta7.crf",
     "proReleases": [
+      "Pigeon2-Application-23.1.1.1-Pro-Beta7.crf",
       "Pigeon2-Application-23.1.0.6-Pro-Beta6.crf",
       "Pigeon2-Application-23.0.2.0-Pro-beta2023.crf"
     ]
@@ -100,9 +102,10 @@
       "CANCoder-Application-22.0.1.2-season2022.crf",
       "CANCoder-Application-22.0.0.0-season2022.crf"
     ],
-    "proLatestVer": "23.1.0.7",
-    "proLatest": "CANCoder-vK-Application-23.1.0.7-Pro-Beta6.crf",
+    "proLatestVer": "23.1.1.2",
+    "proLatest": "CANCoder-vK-Application-23.1.1.2-Pro-Beta7.crf",
     "proReleases": [
+      "CANCoder-vK-Application-23.1.1.2-Pro-Beta7.crf",
       "CANCoder-vK-Application-23.1.0.7-Pro-Beta6.crf",
       "CANCoder-vK-Application-23.1.0.6-Pro-Beta6.crf",
       "CANCoder-vK-Application-23.0.1.0-Pro-beta2023.crf"
@@ -115,9 +118,10 @@
 	  "CANCoder-Application-vH-22.0.2.1-season2022.crf",
       "CANCoder-Application-vH-22.0.1.2-season2022.crf"
     ],
-    "proLatestVer": "23.1.0.7",
-    "proLatest": "CANCoder-vH-Application-23.1.0.7-Pro-Beta6.crf",
+    "proLatestVer": "23.1.1.2",
+    "proLatest": "CANCoder-vH-Application-23.1.1.2-Pro-Beta7.crf",
     "proReleases": [
+      "CANCoder-vH-Application-23.1.1.2-Pro-Beta7.crf",
       "CANCoder-vH-Application-23.1.0.7-Pro-Beta6.crf",
       "CANCoder-vH-Application-23.1.0.6-Pro-Beta6.crf",
       "CANCoder-vH-Application-23.0.1.0-Pro-beta2023.crf"
