@@ -83,9 +83,10 @@
     ]
   },
   "CANdle": {
-    "v5LatestVer": "22.3.0.0",
-    "v5Latest": "CANdle-Application-22.3.0.0-season2023.crf",
+    "v5LatestVer": "22.3.1.0",
+    "v5Latest": "CANdle-Application-22.3.1.0-season2023.crf",
     "v5Releases": [
+	  "CANdle-Application-22.3.1.0-season2023.crf",
 	  "CANdle-Application-22.3.0.0-season2023.crf",
       "CANdle-Application-22.1.4.0-season2023.crf",
       "CANdle-Application-22.1.1.0-season2022.crf",
