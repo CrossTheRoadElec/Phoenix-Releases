@@ -33,15 +33,17 @@
     ]
   },
   "Pigeon2": {
-    "v5LatestVer": "22.6.2.2",
-    "v5Latest": "Pigeon2-Application-22.6.2.2-season2023.crf",
+    "v5LatestVer": "22.6.3.1",
+    "v5Latest": "Pigeon2-Application-22.6.3.1-season2023.crf",
     "v5Releases": [
+	  "Pigeon2-Application-22.6.3.1-season2023.crf",
       "Pigeon2-Application-22.6.2.2-season2023.crf",
       "Pigeon2-Application-22.6.1.0-season2022.crf"
     ],
-    "proLatestVer": "23.1.1.2",
-    "proLatest": "Pigeon2-Application-23.1.1.2-Pro-season2023.crf",
+    "proLatestVer": "23.1.2.1",
+    "proLatest": "Pigeon2-Application-23.1.2.1-Pro-season2023.crf",
     "proReleases": [
+	  "Pigeon2-Application-23.1.2.1-Pro-season2023.crf",
       "Pigeon2-Application-23.1.1.2-Pro-season2023.crf"
     ]
   },
