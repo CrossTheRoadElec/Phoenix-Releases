@@ -24,9 +24,10 @@
       "TalonFX-Application-22.1.0.0-season2022.crf",
       "TalonFX-Application-22.0.0.0-season2022.crf"
     ],
-    "proLatestVer": "23.6.3.2",
-    "proLatest": "TalonFX-Application-23.6.3.2-Pro-season2023.crf",
+    "proLatestVer": "23.6.4.1",
+    "proLatest": "TalonFX-Application-23.6.4.1-Pro-season2023.crf",
     "proReleases": [
+	  "TalonFX-Application-23.6.4.1-Pro-season2023.crf",
 	  "TalonFX-Application-23.6.3.2-Pro-season2023.crf",
 	  "TalonFX-Application-23.6.2.0-Pro-season2023.crf",
 	  "TalonFX-Application-23.5.0.0-Pro-season2023.crf",
@@ -71,9 +72,10 @@
     ]
   },
   "CANivore": {
-    "v5LatestVer": "23.2.0.0",
-    "v5Latest": "CANivore-Application-23.2.0.0-Season2023.crf",
+    "v5LatestVer": "23.2.1.0",
+    "v5Latest": "CANivore-Application-23.2.1.0-Season2023.crf",
     "v5Releases": [
+	  "CANivore-Application-23.2.1.0-Season2023.crf",
       "CANivore-Application-23.2.0.0-Season2023.crf",
       "CANivore-Application-22.2.0.0-season2022.crf",
       "CANivore-Application-22.1.0.1-season2022.crf"
