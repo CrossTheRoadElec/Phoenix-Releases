@@ -24,9 +24,10 @@
       "TalonFX-Application-22.1.0.0-season2022.crf",
       "TalonFX-Application-22.0.0.0-season2022.crf"
     ],
-    "proLatestVer": "23.6.7.0",
-    "proLatest": "TalonFX-Application-23.6.7.0-Pro-season2023.crf",
+    "proLatestVer": "23.6.8.2",
+    "proLatest": "TalonFX-Application-23.6.8.2-Pro-season2023.crf",
     "proReleases": [
+	  "TalonFX-Application-23.6.8.2-Pro-season2023.crf",
 	  "TalonFX-Application-23.6.7.0-Pro-season2023.crf",
 	  "TalonFX-Application-23.6.6.1-Pro-season2023.crf",
 	  "TalonFX-Application-23.6.5.0-Pro-season2023.crf",
@@ -38,16 +39,18 @@
     ]
   },
   "Pigeon2": {
-    "v5LatestVer": "22.6.3.1",
-    "v5Latest": "Pigeon2-Application-22.6.3.1-season2023.crf",
+    "v5LatestVer": "22.6.4.1",
+    "v5Latest": "Pigeon2-Application-22.6.4.1-season2023.crf",
     "v5Releases": [
+	  "Pigeon2-Application-22.6.4.1-season2023.crf",
 	  "Pigeon2-Application-22.6.3.1-season2023.crf",
       "Pigeon2-Application-22.6.2.2-season2023.crf",
       "Pigeon2-Application-22.6.1.0-season2022.crf"
     ],
-    "proLatestVer": "23.1.2.1",
-    "proLatest": "Pigeon2-Application-23.1.2.1-Pro-season2023.crf",
+    "proLatestVer": "23.1.4.1",
+    "proLatest": "Pigeon2-Application-23.1.4.1-Pro-season2023.crf",
     "proReleases": [
+	  "Pigeon2-Application-23.1.4.1-Pro-season2023.crf",
 	  "Pigeon2-Application-23.1.2.1-Pro-season2023.crf",
       "Pigeon2-Application-23.1.1.2-Pro-season2023.crf"
     ]
@@ -75,9 +78,10 @@
     ]
   },
   "CANivore": {
-    "v5LatestVer": "23.2.1.0",
-    "v5Latest": "CANivore-Application-23.2.1.0-Season2023.crf",
+    "v5LatestVer": "23.2.3.1",
+    "v5Latest": "CANivore-Application-23.2.3.1-Season2023.crf",
     "v5Releases": [
+	  "CANivore-Application-23.2.3.1-Season2023.crf",
 	  "CANivore-Application-23.2.1.0-Season2023.crf",
       "CANivore-Application-23.2.0.0-Season2023.crf",
       "CANivore-Application-22.2.0.0-season2022.crf",
