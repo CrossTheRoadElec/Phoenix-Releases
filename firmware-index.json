@@ -85,9 +85,10 @@
     ]
   },
   "CANivore": {
-    "v5LatestVer": "23.2.3.1",
-    "v5Latest": "CANivore-Application-23.2.3.1-Season2023.crf",
+    "v5LatestVer": "23.2.4.0",
+    "v5Latest": "CANivore-Application-23.2.4.0-Season2023.crf",
     "v5Releases": [
+	  "CANivore-Application-23.2.4.0-Season2023.crf",
 	  "CANivore-Application-23.2.3.1-Season2023.crf",
 	  "CANivore-Application-23.2.1.0-Season2023.crf",
       "CANivore-Application-23.2.0.0-Season2023.crf",
