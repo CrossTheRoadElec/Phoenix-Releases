@@ -62,6 +62,18 @@
       "Pigeon2-Application-23.1.1.2-Pro-season2023.crf"
     ]
   },
+  "Pigeon2vers.S": {
+    "v5LatestVer": "22.7.3.0",
+    "v5Latest": "Pigeon2-vS-Application-22.7.3.0-season2023.crf",
+    "v5Releases": [
+	  "Pigeon2-vS-Application-22.7.3.0-season2023.crf"
+    ],
+    "proLatestVer": "23.10.6.0",
+    "proLatest": "Pigeon2-vS-Application-23.10.6.0-Pro-season2023.crf",
+    "proReleases": [
+	  "Pigeon2-vS-Application-23.10.6.0-Pro-season2023.crf"
+    ]
+  },
   "Pigeon": {
     "v5LatestVer": "22.0",
     "v5Latest": "Pigeon-Application-22.0-season2023.crf",
