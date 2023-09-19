@@ -6,6 +6,56 @@
   },
   "Releases": {
       "v6": {
+		  "2024": [
+              {
+                  "Device": "TalonFX",
+                  "LatestRelease": "TalonFX-Application-23.20.6.2-Alpha7Cut.crf",
+                  "LatestVersion": "23.20.6.2",
+                  "AvailRelease": [
+                      "TalonFX-Application-23.20.6.2-Alpha7Cut.crf"
+                  ]
+              },
+              {
+                  "Device": "Pigeon2",
+                  "LatestRelease": "Pigeon2-Application-23.20.6.0-season2023-Phoenix6Alpha-Alpha7Cut.crf",
+                  "LatestVersion": "23.20.6.0",
+                  "AvailRelease": [
+                      "Pigeon2-Application-23.20.6.0-season2023-Phoenix6Alpha-Alpha7Cut.crf"
+                  ]
+              },
+              {
+                  "Device": "Pigeon2vers.S",
+                  "LatestRelease": "Pigeon2vS-Application-23.20.2.0-season2023-Phoenix6Alpha-Alpha7Cut.crf",
+                  "LatestVersion": "23.20.2.0",
+                  "AvailRelease":[
+                      "Pigeon2vS-Application-23.20.2.0-season2023-Phoenix6Alpha-Alpha7Cut.crf"
+                  ]
+              },
+              {
+                  "Device": "CANCoder",
+                  "LatestRelease": "CANCoder-vK-Application-23.20.6.0-Phoenix6Alpha-Alpha7Cut.crf",
+                  "LatestVersion": "23.20.6.0",
+                  "AvailRelease": [
+                      "CANCoder-vK-Application-23.20.6.0-Phoenix6Alpha-Alpha7Cut.crf"
+                  ]
+              },
+              {
+                  "Device": "CANCodervers.H",
+                  "LatestRelease": "CANCoder-vH-Application-23.20.6.0-Phoenix6Alpha-Alpha7Cut.crf",
+                  "LatestVersion": "23.20.6.0",
+                  "AvailRelease": [
+                      "CANCoder-vH-Application-23.20.6.0-Phoenix6Alpha-Alpha7Cut.crf",
+                  ]
+              },
+              {
+                  "Device": "CANivore",
+                  "LatestRelease": "CANivore-Application-23.3.2.0.crf",
+                  "LatestVersion": "23.3.2.0",
+                  "AvailRelease": [
+                      "CANivore-Application-23.3.2.0.crf"
+                  ]
+              }
+	      ],
           "2023": [
               {
                   "Device": "TalonFX",
