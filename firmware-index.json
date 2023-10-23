@@ -1,54 +1,59 @@
 {
   "Version": "2.1.0.0",
   "Latest": {
-	  "v6": "2023",
-	  "v5": "2022"
+      "v6": "2023",
+      "v5": "2022"
   },
   "Releases": {
       "v6": {
-		  "2024": [
+          "2024": [
               {
                   "Device": "TalonFX",
-                  "LatestRelease": "TalonFX-Application-23.20.8.0-Alpha8Cut.crf",
-                  "LatestVersion": "23.20.8.0",
+                  "LatestRelease": "TalonFX-Application-24.0.2.0-Phoenix6-Beta.crf",
+                  "LatestVersion": "24.0.2.0",
                   "AvailRelease": [
-				      "TalonFX-Application-23.20.8.0-Alpha8Cut.crf",
+                      "TalonFX-Application-24.0.2.0-Phoenix6-Beta.crf",
+                      "TalonFX-Application-23.20.8.0-Alpha8Cut.crf",
                       "TalonFX-Application-23.20.6.2-Alpha7Cut.crf"
                   ]
               },
               {
                   "Device": "Pigeon2",
-                  "LatestRelease": "Pigeon2-Application-23.20.8.0-season2023-Phoenix6Alpha-Alpha8Cut.crf",
-                  "LatestVersion": "23.20.8.0",
+                  "LatestRelease": "Pigeon2-Application-24.0.2.0-Phoenix6-Beta.crf",
+                  "LatestVersion": "24.0.2.0",
                   "AvailRelease": [
-				      "Pigeon2-Application-23.20.8.0-season2023-Phoenix6Alpha-Alpha8Cut.crf",
+                      "Pigeon2-Application-24.0.2.0-Phoenix6-Beta.crf",
+                      "Pigeon2-Application-23.20.8.0-season2023-Phoenix6Alpha-Alpha8Cut.crf",
                       "Pigeon2-Application-23.20.6.0-season2023-Phoenix6Alpha-Alpha7Cut.crf"
                   ]
               },
               {
                   "Device": "Pigeon2vers.S",
-                  "LatestRelease": "Pigeon2vS-Application-23.20.8.0-season2023-Phoenix6Alpha-Alpha8Cut.crf",
-                  "LatestVersion": "23.20.8.0",
+                  "LatestRelease": "Pigeon2vS-Application-24.0.2.0-Phoenix6-Beta.crf",
+                  "LatestVersion": "24.0.2.0",
                   "AvailRelease":[
-				      "Pigeon2vS-Application-23.20.8.0-season2023-Phoenix6Alpha-Alpha8Cut.crf",
+                      "Pigeon2vS-Application-24.0.2.0-Phoenix6-Beta.crf",
+                      "Pigeon2vS-Application-23.20.8.0-season2023-Phoenix6Alpha-Alpha8Cut.crf",
                       "Pigeon2vS-Application-23.20.2.0-season2023-Phoenix6Alpha-Alpha7Cut.crf"
                   ]
               },
               {
                   "Device": "CANCoder",
-                  "LatestRelease": "CANCoder-vK-Application-23.20.8.0-Phoenix6Alpha-Alpha8Cut.crf",
-                  "LatestVersion": "23.20.8.0",
+                  "LatestRelease": "CANCoder-vK-Application-24.0.2.0-Phoenix6-Beta.crf",
+                  "LatestVersion": "24.0.2.0",
                   "AvailRelease": [
-				      "CANCoder-vK-Application-23.20.8.0-Phoenix6Alpha-Alpha8Cut.crf",
+                      "CANCoder-vK-Application-24.0.2.0-Phoenix6-Beta.crf",
+                      "CANCoder-vK-Application-23.20.8.0-Phoenix6Alpha-Alpha8Cut.crf",
                       "CANCoder-vK-Application-23.20.6.0-Phoenix6Alpha-Alpha7Cut.crf"
                   ]
               },
               {
                   "Device": "CANCodervers.H",
-                  "LatestRelease": "CANCoder-vH-Application-23.20.8.0-Phoenix6Alpha-Alpha8Cut.crf",
-                  "LatestVersion": "23.20.8.0",
+                  "LatestRelease": "CANCoder-vH-Application-24.0.2.0-Phoenix6-Beta.crf",
+                  "LatestVersion": "24.0.2.0",
                   "AvailRelease": [
-					  "CANCoder-vH-Application-23.20.8.0-Phoenix6Alpha-Alpha8Cut.crf",
+                      "CANCoder-vH-Application-24.0.2.0-Phoenix6-Beta.crf",
+                      "CANCoder-vH-Application-23.20.8.0-Phoenix6Alpha-Alpha8Cut.crf",
                       "CANCoder-vH-Application-23.20.6.0-Phoenix6Alpha-Alpha7Cut.crf"
                   ]
               },
@@ -60,7 +65,7 @@
                       "CANivore-Application-23.3.2.0.crf"
                   ]
               }
-	      ],
+          ],
           "2023": [
               {
                   "Device": "TalonFX",
