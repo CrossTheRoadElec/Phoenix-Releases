@@ -69,7 +69,7 @@
               },
               {
                   "Device": "CANivore",
-                  "LatestRelease": "CANivore-24.0.0.1-Season2024",
+                  "LatestRelease": "CANivore-24.0.0.1-Season2024.crf",
                   "LatestVersion": "24.0.0.1",
                   "AvailRelease": [
                       "CANivore-24.0.0.1-Season2024.crf",
