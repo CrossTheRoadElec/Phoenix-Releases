@@ -194,12 +194,10 @@
               },
               {
                   "Device": "TalonFX",
-                  "LatestRelease": "TalonFX-Application-22.1.1.0-season2023.crf",
-                  "LatestVersion": "22.1.1.0",
+                  "LatestRelease": "TalonFX-Application-22.2.0.0-Season2024.crf",
+                  "LatestVersion": "22.2.0.0",
                   "AvailRelease": [
-                      "TalonFX-Application-22.1.1.0-season2023.crf",
-                      "TalonFX-Application-22.1.0.0-season2022.crf",
-                      "TalonFX-Application-22.0.0.0-season2022.crf"
+                      "TalonFX-Application-22.2.0.0-Season2024.crf"
                   ]
               },
               {
