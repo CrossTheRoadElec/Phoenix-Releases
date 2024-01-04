@@ -197,7 +197,8 @@
                   "LatestRelease": "TalonFX-Application-22.2.0.0-Season2024.crf",
                   "LatestVersion": "22.2.0.0",
                   "AvailRelease": [
-                      "TalonFX-Application-22.2.0.0-Season2024.crf"
+                      "TalonFX-Application-22.2.0.0-Season2024.crf",
+                      "TalonFX-Application-22.1.1.0-season2023.crf"
                   ]
               },
               {
