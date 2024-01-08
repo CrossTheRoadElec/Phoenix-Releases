@@ -9,80 +9,50 @@
           "2024": [
               {
                   "Device": "TalonFXvers.C",
-                  "LatestRelease": "TalonFX-vC-24.0.6.0-Phoenix6-Beta.crf",
-                  "LatestVersion": "24.0.6.0",
+                  "LatestRelease": "TalonFX-vC-24.1.0.0-Phoenix6.crf",
+                  "LatestVersion": "24.1.0.0",
                   "AvailRelease": [
-                      "TalonFX-vC-24.0.6.0-Phoenix6-Beta.crf"
+                      "TalonFX-vC-24.1.0.0-Phoenix6.crf"
                   ]
               },
               {
                   "Device": "TalonFX",
-                  "LatestRelease": "TalonFX-24.0.6.0-Phoenix6-Beta.crf",
-                  "LatestVersion": "24.0.6.0",
+                  "LatestRelease": "TalonFX-24.1.0.0-Phoenix6.crf",
+                  "LatestVersion": "24.1.0.0",
                   "AvailRelease": [
-                      "TalonFX-24.0.6.0-Phoenix6-Beta.crf",
-                      "TalonFX-24.0.5.0-Phoenix6-Beta.crf",
-                      "TalonFX-24.0.4.1-Phoenix6-Beta.crf",
-                      "TalonFX-Application-24.0.3.1-Phoenix6-Beta.crf",
-                      "TalonFX-Application-24.0.2.0-Phoenix6-Beta.crf",
-                      "TalonFX-Application-23.20.8.0-Alpha8Cut.crf",
-                      "TalonFX-Application-23.20.6.2-Alpha7Cut.crf"
+                      "TalonFX-24.1.0.0-Phoenix6.crf"
                   ]
               },
               {
                   "Device": "Pigeon2",
-                  "LatestRelease": "Pigeon2-24.0.6.0-Phoenix6-Beta.crf",
-                  "LatestVersion": "24.0.6.0",
+                  "LatestRelease": "Pigeon2-24.1.0.0-Phoenix6.crf",
+                  "LatestVersion": "24.1.0.0",
                   "AvailRelease": [
-                      "Pigeon2-24.0.6.0-Phoenix6-Beta.crf",
-                      "Pigeon2-24.0.5.0-Phoenix6-Beta.crf",
-                      "Pigeon2-24.0.4.1-Phoenix6-Beta.crf",
-                      "Pigeon2-Application-24.0.3.1-Phoenix6-Beta.crf",
-                      "Pigeon2-Application-24.0.2.0-Phoenix6-Beta.crf",
-                      "Pigeon2-Application-23.20.8.0-season2023-Phoenix6Alpha-Alpha8Cut.crf",
-                      "Pigeon2-Application-23.20.6.0-season2023-Phoenix6Alpha-Alpha7Cut.crf"
+                      "Pigeon2-24.1.0.0-Phoenix6.crf"
                   ]
               },
               {
                   "Device": "Pigeon2vers.S",
-                  "LatestRelease": "Pigeon2vS-24.0.6.0-Phoenix6-Beta.crf",
-                  "LatestVersion": "24.0.6.0",
+                  "LatestRelease": "Pigeon2vS-24.1.0.0-Phoenix6.crf",
+                  "LatestVersion": "24.1.0.0",
                   "AvailRelease":[
-                      "Pigeon2vS-24.0.6.0-Phoenix6-Beta.crf",
-                      "Pigeon2vS-24.0.5.0-Phoenix6-Beta.crf",
-                      "Pigeon2vS-24.0.4.1-Phoenix6-Beta.crf",
-                      "Pigeon2vS-Application-24.0.3.1-Phoenix6-Beta.crf",
-                      "Pigeon2vS-Application-24.0.2.0-Phoenix6-Beta.crf",
-                      "Pigeon2vS-Application-23.20.8.0-season2023-Phoenix6Alpha-Alpha8Cut.crf",
-                      "Pigeon2vS-Application-23.20.2.0-season2023-Phoenix6Alpha-Alpha7Cut.crf"
+                      "Pigeon2vS-24.1.0.0-Phoenix6.crf"
                   ]
               },
               {
                   "Device": "CANCoder",
-                  "LatestRelease": "CANCoder-vK-24.0.6.0-Phoenix6-Beta.crf",
-                  "LatestVersion": "24.0.6.0",
+                  "LatestRelease": "CANCoder-vK-24.1.0.0-Phoenix6.crf",
+                  "LatestVersion": "24.1.0.0",
                   "AvailRelease": [
-                      "CANCoder-vK-24.0.6.0-Phoenix6-Beta.crf",
-                      "CANCoder-vK-24.0.5.0-Phoenix6-Beta.crf",
-                      "CANCoder-vK-24.0.4.1-Phoenix6-Beta.crf",
-                      "CANCoder-vK-Application-24.0.3.1-Phoenix6-Beta.crf",
-                      "CANCoder-vK-Application-24.0.2.0-Phoenix6-Beta.crf",
-                      "CANCoder-vK-Application-23.20.8.0-Phoenix6Alpha-Alpha8Cut.crf",
-                      "CANCoder-vK-Application-23.20.6.0-Phoenix6Alpha-Alpha7Cut.crf"
+                      "CANCoder-vK-24.1.0.0-Phoenix6.crf"
                   ]
               },
               {
                   "Device": "CANCodervers.H",
-                  "LatestRelease": "CANCoder-vH-24.0.6.0-Phoenix6-Beta.crf",
-                  "LatestVersion": "24.0.6.0",
+                  "LatestRelease": "CANCoder-vH-24.1.0.0-Phoenix6.crf",
+                  "LatestVersion": "24.1.0.0",
                   "AvailRelease": [
-                      "CANCoder-vH-24.0.6.0-Phoenix6-Beta.crf",
-                      "CANCoder-vH-24.0.5.0-Phoenix6-Beta.crf",
-                      "CANCoder-vH-24.0.4.1-Phoenix6-Beta.crf",
-                      "CANCoder-vH-Application-24.0.3.1-Phoenix6-Beta.crf",
-                      "CANCoder-vH-Application-24.0.2.0-Phoenix6-Beta.crf",
-                      "CANCoder-vH-Application-23.20.8.0-Phoenix6Alpha-Alpha8Cut.crf",
-                      "CANCoder-vH-Application-23.20.6.0-Phoenix6Alpha-Alpha7Cut.crf"
+                      "CANCoder-vH-24.1.0.0-Phoenix6.crf"
                   ]
               },
               {
