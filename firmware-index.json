@@ -9,17 +9,19 @@
           "2024": [
               {
                   "Device": "TalonFXvers.C",
-                  "LatestRelease": "TalonFX-vC-24.1.0.0-Phoenix6.crf",
-                  "LatestVersion": "24.1.0.0",
+                  "LatestRelease": "TalonFX-vC-24.2.0.0-Phoenix6.crf",
+                  "LatestVersion": "24.2.0.0",
                   "AvailRelease": [
+                      "TalonFX-vC-24.2.0.0-Phoenix6.crf",
                       "TalonFX-vC-24.1.0.0-Phoenix6.crf"
                   ]
               },
               {
                   "Device": "TalonFX",
-                  "LatestRelease": "TalonFX-24.1.0.0-Phoenix6.crf",
-                  "LatestVersion": "24.1.0.0",
+                  "LatestRelease": "TalonFX-24.2.0.0-Phoenix6.crf",
+                  "LatestVersion": "24.2.0.0",
                   "AvailRelease": [
+                      "TalonFX-24.2.0.0-Phoenix6.crf",
                       "TalonFX-24.1.0.0-Phoenix6.crf"
                   ]
               },
