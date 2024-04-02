@@ -15,11 +15,7 @@
                   "Errata": "Update available that improves detection of excessive heat events. Strongly recommend updating to properly detect such events.",
                   "AvailRelease": [
                       "TalonFX-vC-24.4.2.2-Phoenix6.crf",
-                      "TalonFX-vC-24.4.1.3-Phoenix6.crf",
-                      "TalonFX-vC-24.4.0.3-Phoenix6.crf",
-                      "TalonFX-vC-24.3.1.0-Phoenix6.crf",
-                      "TalonFX-vC-24.2.0.0-Phoenix6.crf",
-                      "TalonFX-vC-24.1.0.0-Phoenix6.crf"
+                      "TalonFX-vC-24.4.1.3-Phoenix6.crf"
                   ]
               },
               {
@@ -30,11 +26,7 @@
                   "Errata": "Update available that improves detection of excessive heat events. Strongly recommend updating to properly detect such events.",
                   "AvailRelease": [
                       "TalonFX-24.4.2.2-Phoenix6.crf",
-                      "TalonFX-24.4.1.3-Phoenix6.crf",
-                      "TalonFX-24.4.0.3-Phoenix6.crf",
-                      "TalonFX-24.3.1.0-Phoenix6.crf",
-                      "TalonFX-24.2.0.0-Phoenix6.crf",
-                      "TalonFX-24.1.0.0-Phoenix6.crf"
+                      "TalonFX-24.4.1.3-Phoenix6.crf"
                   ]
               },
               {
