@@ -63,9 +63,10 @@
               },
               {
                   "Device": "CANivore",
-                  "LatestRelease": "CANivore-24.0.0.1-Season2024.crf",
-                  "LatestVersion": "24.0.0.1",
+                  "LatestRelease": "CANivore-24.0.1.0-Season2024.crf",
+                  "LatestVersion": "24.0.1.0",
                   "AvailRelease": [
+                      "CANivore-24.0.1.0-Season2024.crf",
                       "CANivore-24.0.0.1-Season2024.crf",
                       "CANivore-Application-23.3.2.0.crf"
                   ]
