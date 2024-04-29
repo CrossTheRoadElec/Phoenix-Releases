@@ -9,9 +9,9 @@
           "2024": [
               {
                   "Device": "TalonFXvers.C",
-                  "LatestRelease": "TalonFX-vC-24.4.2.2-Phoenix6.crf",
-                  "LatestVersion": "24.4.2.2",
-                  "CriticalVersion": "24.4.0.3",
+                  "LatestRelease": "TalonFX-vC-24.4.3.1-Phoenix6.crf",
+                  "LatestVersion": "24.4.3.1",
+                  "CriticalVersion": "24.4.1.3",
                   "Errata": "Update available that improves detection of excessive heat events. Strongly recommend updating to properly detect such events.",
                   "AvailRelease": [
                       "TalonFX-vC-24.4.3.1-Phoenix6.crf",
@@ -21,9 +21,9 @@
               },
               {
                   "Device": "TalonFX",
-                  "LatestRelease": "TalonFX-24.4.2.2-Phoenix6.crf",
-                  "LatestVersion": "24.4.2.2",
-                  "CriticalVersion": "24.4.0.3",
+                  "LatestRelease": "TalonFX-24.4.3.1-Phoenix6.crf",
+                  "LatestVersion": "24.4.3.1",
+                  "CriticalVersion": "24.4.1.3",
                   "Errata": "Update available that improves detection of excessive heat events. Strongly recommend updating to properly detect such events.",
                   "AvailRelease": [
                       "TalonFX-24.4.3.1-Phoenix6.crf",
