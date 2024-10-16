@@ -27,7 +27,7 @@
               },
               {
                   "Device": "Pigeon2",
-                  "LatestRelease": "Pigeon2-24.1.0.0-Phoenix6.crf",
+                  "LatestRelease": "Pigeon2-25.0.0.0-Phoenix6.crf",
                   "LatestVersion": "25.0.0.0",
                   "AvailRelease": [
                       "Pigeon2-25.0.0.0-Phoenix6-Beta.crf"
@@ -35,7 +35,7 @@
               },
               {
                   "Device": "Pigeon2vers.S",
-                  "LatestRelease": "Pigeon2vS-24.1.0.0-Phoenix6.crf",
+                  "LatestRelease": "Pigeon2vS-25.0.0.0-Phoenix6.crf",
                   "LatestVersion": "25.0.0.0",
                   "AvailRelease":[
                       "Pigeon2vS-25.0.0.0-Phoenix6-Beta.crf"
@@ -43,7 +43,7 @@
               },
               {
                   "Device": "CANCoder",
-                  "LatestRelease": "CANCoder-vK-24.1.0.0-Phoenix6.crf",
+                  "LatestRelease": "CANCoder-vK-25.0.0.0-Phoenix6.crf",
                   "LatestVersion": "25.0.0.0",
                   "AvailRelease": [
                       "CANCoder-vK-25.0.0.0-Phoenix6-Beta.crf"
@@ -51,7 +51,7 @@
               },
               {
                   "Device": "CANCodervers.H",
-                  "LatestRelease": "CANCoder-vH-24.1.0.0-Phoenix6.crf",
+                  "LatestRelease": "CANCoder-vH-25.0.0.0-Phoenix6.crf",
                   "LatestVersion": "25.0.0.0",
                   "AvailRelease": [
                       "CANCoder-vH-25.0.0.0-Phoenix6-Beta.crf"
