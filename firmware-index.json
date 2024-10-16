@@ -6,15 +6,67 @@
   },
   "Releases": {
       "v6": {
+        "2025": [
+              {
+                  "Device": "TalonFXvers.C",
+                  "LatestRelease": "TalonFX-vC-25.0.0.0-Phoenix6-Beta.crf",
+                  "LatestVersion": "25.0.0.0",
+                  "Errata": "Update available that improves detection of excessive heat events. Strongly recommend updating to properly detect such events.",
+                  "AvailRelease": [
+                      "TalonFX-vC-25.0.0.0-Phoenix6-Beta.crf"
+                  ]
+              },
+              {
+                  "Device": "TalonFX",
+                  "LatestRelease": "TalonFX-25.0.0.0-Phoenix6-Beta.crf",
+                  "LatestVersion": "25.0.0.0",
+                  "Errata": "Update available that improves detection of excessive heat events. Strongly recommend updating to properly detect such events.",
+                  "AvailRelease": [
+                      "TalonFX-25.0.0.0-Phoenix6-Beta.crf"
+                  ]
+              },
+              {
+                  "Device": "Pigeon2",
+                  "LatestRelease": "Pigeon2-24.1.0.0-Phoenix6.crf",
+                  "LatestVersion": "25.0.0.0",
+                  "AvailRelease": [
+                      "Pigeon2-25.0.0.0-Phoenix6-Beta.crf"
+                  ]
+              },
+              {
+                  "Device": "Pigeon2vers.S",
+                  "LatestRelease": "Pigeon2vS-24.1.0.0-Phoenix6.crf",
+                  "LatestVersion": "25.0.0.0",
+                  "AvailRelease":[
+                      "Pigeon2vS-25.0.0.0-Phoenix6-Beta.crf"
+                  ]
+              },
+              {
+                  "Device": "CANCoder",
+                  "LatestRelease": "CANCoder-vK-24.1.0.0-Phoenix6.crf",
+                  "LatestVersion": "25.0.0.0",
+                  "AvailRelease": [
+                      "CANCoder-vK-25.0.0.0-Phoenix6-Beta.crf"
+                  ]
+              },
+              {
+                  "Device": "CANCodervers.H",
+                  "LatestRelease": "CANCoder-vH-24.1.0.0-Phoenix6.crf",
+                  "LatestVersion": "25.0.0.0",
+                  "AvailRelease": [
+                      "CANCoder-vH-25.0.0.0-Phoenix6-Beta.crf"
+                  ]
+              }
+          ],
           "2024": [
               {
                   "Device": "TalonFXvers.C",
-                  "LatestRelease": "TalonFX-vC-24.4.4.0-Phoenix6.crf",
+                  "LatestRelease": "TalonFX-vC-25.0.0.0-Phoenix6-Beta.crf",
                   "LatestVersion": "24.4.4.0",
                   "CriticalVersion": "24.4.1.3",
                   "Errata": "Update available that improves detection of excessive heat events. Strongly recommend updating to properly detect such events.",
                   "AvailRelease": [
-                      "TalonFX-vC-24.4.4.0-Phoenix6.crf",
+                      "TalonFX-vC-25.0.0.0-Phoenix6-Beta.crf",
                       "TalonFX-vC-24.4.3.1-Phoenix6.crf",
                       "TalonFX-vC-24.4.2.2-Phoenix6.crf",
                       "TalonFX-vC-24.4.1.3-Phoenix6.crf"
@@ -22,12 +74,12 @@
               },
               {
                   "Device": "TalonFX",
-                  "LatestRelease": "TalonFX-24.4.4.0-Phoenix6.crf",
+                  "LatestRelease": "TalonFX-25.0.0.0-Phoenix6-Beta.crf",
                   "LatestVersion": "24.4.4.0",
                   "CriticalVersion": "24.4.1.3",
                   "Errata": "Update available that improves detection of excessive heat events. Strongly recommend updating to properly detect such events.",
                   "AvailRelease": [
-                      "TalonFX-24.4.4.0-Phoenix6.crf",
+                      "TalonFX-25.0.0.0-Phoenix6-Beta.crf",
                       "TalonFX-24.4.3.1-Phoenix6.crf",
                       "TalonFX-24.4.2.2-Phoenix6.crf",
                       "TalonFX-24.4.1.3-Phoenix6.crf"
