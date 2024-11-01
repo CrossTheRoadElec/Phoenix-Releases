@@ -10,7 +10,7 @@
               {
                   "Device": "TalonFXvers.C",
                   "LatestRelease": "TalonFX-vC-25.0.1.0-Phoenix6-Beta.crf",
-                  "LatestVersion": "25.1.0.0",
+                  "LatestVersion": "25.0.1.0",
                   "Errata": "Update available that improves detection of excessive heat events. Strongly recommend updating to properly detect such events.",
                   "AvailRelease": [
                       "TalonFX-vC-25.0.1.0-Phoenix6-Beta.crf",
@@ -20,7 +20,7 @@
               {
                   "Device": "TalonFX",
                   "LatestRelease": "TalonFX-25.0.1.0-Phoenix6-Beta.crf",
-                  "LatestVersion": "25.1.0.0",
+                  "LatestVersion": "25.0.1.0",
                   "Errata": "Update available that improves detection of excessive heat events. Strongly recommend updating to properly detect such events.",
                   "AvailRelease": [
                       "TalonFX-25.0.1.0-Phoenix6-Beta.crf",
