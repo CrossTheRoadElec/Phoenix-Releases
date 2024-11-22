@@ -1,331 +1,339 @@
 {
-  "Version": "2.1.0.0",
-  "Latest": {
-      "v6": "2024",
-      "v5": "2022"
-  },
-  "Releases": {
-      "v6": {
-        "2025": [
-              {
-                  "Device": "TalonFXvers.C",
-                  "LatestRelease": "TalonFX-vC-25.0.2.0-Phoenix6-Beta.crf",
-                  "LatestVersion": "25.0.2.0",
-                  "Errata": "Update available that improves detection of excessive heat events. Strongly recommend updating to properly detect such events.",
-                  "AvailRelease": [
-                      "TalonFX-vc-25.0.2.0-Phoenix6-Beta.crf",
-                      "TalonFX-vC-25.0.1.0-Phoenix6-Beta.crf",
-                      "TalonFX-vC-25.0.0.0-Phoenix6-Beta.crf"
-                  ]
-              },
-              {
-                  "Device": "TalonFX",
-                  "LatestRelease": "TalonFX-25.0.2.0-Phoenix6-Beta.crf",
-                  "LatestVersion": "25.0.2.0",
-                  "Errata": "Update available that improves detection of excessive heat events. Strongly recommend updating to properly detect such events.",
-                  "AvailRelease": [
-                      "TalonFX-25.0.2.0-Phoenix6-Beta.crf",
-                      "TalonFX-25.0.1.0-Phoenix6-Beta.crf",
-                      "TalonFX-25.0.0.0-Phoenix6-Beta.crf"
-                  ]
-              },
-              {
-                  "Device": "Pigeon2",
-                  "LatestRelease": "Pigeon2-25.0.2.0-Phoenix6-Beta.crf",
-                  "LatestVersion": "25.0.2.0",
-                  "AvailRelease": [
-                      "Pigeon2-25.0.2.0-Phoenix6-Beta.crf",
-                      "Pigeon2-25.0.1.0-Phoenix6-Beta.crf",
-                      "Pigeon2-25.0.0.0-Phoenix6-Beta.crf"
-                  ]
-              },
-              {
-                  "Device": "Pigeon2vers.S",
-                  "LatestRelease": "Pigeon2vS-25.0.2.0-Phoenix6-Beta.crf",
-                  "LatestVersion": "25.0.2.0",
-                  "AvailRelease":[
-                      "Pigeon2vS-25.0.2.0-Phoenix6-Beta.crf",
-                      "Pigeon2vS-25.0.1.0-Phoenix6-Beta.crf",
-                      "Pigeon2vS-25.0.0.0-Phoenix6-Beta.crf"
-                  ]
-              },
-              {
-                  "Device": "CANCoder",
-                  "LatestRelease": "CANCoder-vK-25.0.2.0-Phoenix6-Beta.crf",
-                  "LatestVersion": "25.0.2.0",
-                  "AvailRelease": [
-                      "CANCoder-vK-25.0.2.0-Phoenix6-Beta.crf",
-                      "CANCoder-vK-25.0.1.0-Phoenix6-Beta.crf",
-                      "CANCoder-vK-25.0.0.0-Phoenix6-Beta.crf"
-                  ]
-              },
-              {
-                  "Device": "CANCodervers.H",
-                  "LatestRelease": "CANCoder-vH-25.0.2.0-Phoenix6-Beta.crf",
-                  "LatestVersion": "25.0.2.0",
-                  "AvailRelease": [
-                      "CANCoder-vH-25.0.2.0-Phoenix6-Beta.crf",
-                      "CANCoder-vH-25.0.1.0-Phoenix6-Beta.crf",
-                      "CANCoder-vH-25.0.0.0-Phoenix6-Beta.crf"
-                  ]
-              }
-          ],
-          "2024": [
-              {
-                  "Device": "TalonFXvers.C",
-                  "LatestRelease": "TalonFX-vC-24.4.4.0-Phoenix6.crf",
-                  "LatestVersion": "24.4.4.0",
-                  "CriticalVersion": "24.4.1.3",
-                  "Errata": "Update available that improves detection of excessive heat events. Strongly recommend updating to properly detect such events.",
-                  "AvailRelease": [
-                      "TalonFX-vC-24.4.4.0-Phoenix6.crf",
-                      "TalonFX-vC-24.4.3.1-Phoenix6.crf",
-                      "TalonFX-vC-24.4.2.2-Phoenix6.crf",
-                      "TalonFX-vC-24.4.1.3-Phoenix6.crf"
-                  ]
-              },
-              {
-                  "Device": "TalonFX",
-                  "LatestRelease": "TalonFX-24.4.4.0-Phoenix6.crf",
-                  "LatestVersion": "24.4.4.0",
-                  "CriticalVersion": "24.4.1.3",
-                  "Errata": "Update available that improves detection of excessive heat events. Strongly recommend updating to properly detect such events.",
-                  "AvailRelease": [
-                      "TalonFX-24.4.4.0-Phoenix6.crf",
-                      "TalonFX-24.4.3.1-Phoenix6.crf",
-                      "TalonFX-24.4.2.2-Phoenix6.crf",
-                      "TalonFX-24.4.1.3-Phoenix6.crf"
-                  ]
-              },
-              {
-                  "Device": "Pigeon2",
-                  "LatestRelease": "Pigeon2-24.1.0.0-Phoenix6.crf",
-                  "LatestVersion": "24.1.0.0",
-                  "AvailRelease": [
-                      "Pigeon2-24.1.0.0-Phoenix6.crf"
-                  ]
-              },
-              {
-                  "Device": "Pigeon2vers.S",
-                  "LatestRelease": "Pigeon2vS-24.1.0.0-Phoenix6.crf",
-                  "LatestVersion": "24.1.0.0",
-                  "AvailRelease":[
-                      "Pigeon2vS-24.1.0.0-Phoenix6.crf"
-                  ]
-              },
-              {
-                  "Device": "CANCoder",
-                  "LatestRelease": "CANCoder-vK-24.1.0.0-Phoenix6.crf",
-                  "LatestVersion": "24.1.0.0",
-                  "AvailRelease": [
-                      "CANCoder-vK-24.1.0.0-Phoenix6.crf"
-                  ]
-              },
-              {
-                  "Device": "CANCodervers.H",
-                  "LatestRelease": "CANCoder-vH-24.1.0.0-Phoenix6.crf",
-                  "LatestVersion": "24.1.0.0",
-                  "AvailRelease": [
-                      "CANCoder-vH-24.1.0.0-Phoenix6.crf"
-                  ]
-              },
-              {
-                  "Device": "CANivore",
-                  "LatestRelease": "CANivore-24.0.1.0-Season2024.crf",
-                  "LatestVersion": "24.0.1.0",
-                  "AvailRelease": [
-                      "CANivore-24.0.1.0-Season2024.crf",
-                      "CANivore-24.0.0.1-Season2024.crf"
-                  ]
-              }
-          ],
-          "2023": [
-              {
-                  "Device": "TalonFX",
-                  "LatestRelease": "TalonFX-Application-23.10.1.0-Phoenix6-season2023.crf",
-                  "LatestVersion": "23.10.1.0",
-                  "AvailRelease": [
-                      "TalonFX-Application-23.10.1.0-Phoenix6-season2023.crf",
-                      "TalonFX-Application-23.10.0.1-Phoenix6-season2023.crf",
-                      "TalonFX-Application-23.6.10.1-Pro-season2023.crf",
-                      "TalonFX-Application-23.6.9.0-Pro-season2023.crf",
-                      "TalonFX-Application-23.6.8.2-Pro-season2023.crf",
-                      "TalonFX-Application-23.6.7.0-Pro-season2023.crf",
-                      "TalonFX-Application-23.6.6.1-Pro-season2023.crf",
-                      "TalonFX-Application-23.6.5.0-Pro-season2023.crf",
-                      "TalonFX-Application-23.6.4.1-Pro-season2023.crf",
-                      "TalonFX-Application-23.6.3.2-Pro-season2023.crf",
-                      "TalonFX-Application-23.6.2.0-Pro-season2023.crf",
-                      "TalonFX-Application-23.5.0.0-Pro-season2023.crf",
-                      "TalonFX-Application-23.4.0.3-Pro-season2023.crf"
-                  ]
-              },
-              {
-                  "Device": "Pigeon2",
-                  "LatestRelease": "Pigeon2-Application-23.10.1.0-Phoenix6-season2023.crf",
-                  "LatestVersion": "23.10.1.0",
-                  "AvailRelease": [
-                      "Pigeon2-Application-23.10.1.0-Phoenix6-season2023.crf",
-                      "Pigeon2-Application-23.10.0.1-Phoenix6-season2023.crf",
-                      "Pigeon2-Application-23.1.6.0-Pro-season2023.crf",
-                      "Pigeon2-Application-23.1.4.1-Pro-season2023.crf",
-                      "Pigeon2-Application-23.1.2.1-Pro-season2023.crf",
-                      "Pigeon2-Application-23.1.1.2-Pro-season2023.crf"
-                  ]
-              },
-              {
-                  "Device": "Pigeon2vers.S",
-                  "LatestRelease": "Pigeon2-vS-Application-23.10.6.0-Phoenix6-season2023.crf",
-                  "LatestVersion": "23.10.6.0",
-                  "AvailRelease":[
-                      "Pigeon2-vS-Application-23.10.6.0-Phoenix6-season2023.crf"
-                  ]
-              },
-              {
-                  "Device": "CANCoder",
-                  "LatestRelease": "CANCoder-vK-Application-23.10.1.0-Phoenix6-season2023.crf",
-                  "LatestVersion": "23.10.1.0",
-                  "AvailRelease": [
-                      "CANCoder-vK-Application-23.10.1.0-Phoenix6-season2023.crf",
-                      "CANCoder-vK-Application-23.10.0.1-Phoenix6-season2023.crf",
-                      "CANCoder-vK-Application-23.1.3.0-Pro-season2023.crf",
-                      "CANCoder-vK-Application-23.1.1.3-Pro-season2023.crf"
-                  ]
-              },
-              {
-                  "Device": "CANCodervers.H",
-                  "LatestRelease": "CANCoder-vH-Application-23.10.1.0-Phoenix6-season2023.crf",
-                  "LatestVersion": "23.10.1.0",
-                  "AvailRelease": [
-                      "CANCoder-vH-Application-23.10.1.0-Phoenix6-season2023.crf",
-                      "CANCoder-vH-Application-23.10.0.1-Phoenix6-season2023.crf",
-                      "CANCoder-vH-Application-23.1.3.0-Pro-season2023.crf",
-                      "CANCoder-vH-Application-23.1.1.3-Pro-season2023.crf"
-                  ]
-              },
-              {
-                  "Device": "CANivore",
-                  "LatestRelease": "CANivore-Application-23.2.4.0-Season2023.crf",
-                  "LatestVersion": "23.2.4.0",
-                  "AvailRelease": [
-                      "CANivore-Application-23.2.4.0-Season2023.crf",
-                      "CANivore-Application-23.2.3.1-Season2023.crf",
-                      "CANivore-Application-23.2.1.0-Season2023.crf",
-                      "CANivore-Application-23.2.0.0-Season2023.crf"
-                  ]
-              }
-          ]
-      },
-      "v5": {
-          "2022": [
-              {
-                  "Device": "TalonSRX",
-                  "LatestRelease": "TalonSRX-Application-22.1-season2023.crf",
-                  "LatestVersion": "22.1",
-                  "AvailRelease": [
-                      "TalonSRX-Application-22.1-season2023.crf",
-                      "TalonSRX-Application-22.0-season2022.crf"
-                  ]
-              },
-              {
-                  "Device": "VictorSPX",
-                  "LatestRelease": "VictorSPX-Application-22.1-season2023.crf",
-                  "LatestVersion": "22.1",
-                  "AvailRelease": [
-                      "VictorSPX-Application-22.1-season2023.crf",
-                      "VictorSPX-Application-22.0-season2022.crf"
-                  ]
-              },
-              {
-                  "Device": "TalonFX",
-                  "LatestRelease": "TalonFX-Application-22.2.0.0-Season2024.crf",
-                  "LatestVersion": "22.2.0.0",
-                  "AvailRelease": [
-                      "TalonFX-Application-22.2.0.0-Season2024.crf"
-                  ]
-              },
-              {
-                  "Device": "Pigeon2",
-                  "LatestRelease": "Pigeon2-Application-22.6.4.1-season2023.crf",
-                  "LatestVersion": "22.6.4.1",
-                  "AvailRelease": [
-                      "Pigeon2-Application-22.6.4.1-season2023.crf",
-                      "Pigeon2-Application-22.6.3.1-season2023.crf",
-                      "Pigeon2-Application-22.6.2.2-season2023.crf",
-                      "Pigeon2-Application-22.6.1.0-season2022.crf"
-                  ]
-              },
-              {
-                  "Device": "Pigeon2vers.S",
-                  "LatestRelease": "Pigeon2-vS-Application-22.7.3.0-season2023.crf",
-                  "LatestVersion": "22.7.3.0",
-                  "AvailRelease": [
-                      "Pigeon2-vS-Application-22.7.3.0-season2023.crf"
-                  ]
-              },
-              {
-                  "Device": "Pigeon",
-                  "LatestRelease": "Pigeon-Application-22.0-season2023.crf",
-                  "LatestVersion": "22.0",
-                  "AvailRelease": [
-                      "Pigeon-Application-22.0-season2023.crf"
-                  ]
-              },
-              {
-                  "Device": "PDP",
-                  "LatestRelease": "PDP-Application-1.40.crf",
-                  "LatestVersion": "1.40",
-                  "AvailRelease": [
-                      "PDP-Application-1.40.crf"
-                  ]
-              },
-              {
-                  "Device": "PCM",
-                  "LatestRelease": "PCM-Application-1.65.crf",
-                  "LatestVersion": "1.65",
-                  "AvailRelease": [
-                      "PCM-Application-1.65.crf"
-                  ]
-              },
-              {
-                  "Device": "CANifier",
-                  "LatestRelease": "CANifier-Application-22.0-season2023.crf",
-                  "LatestVersion": "22.0",
-                  "AvailRelease": [
-                      "CANifier-Application-22.0-season2023.crf"
-                  ]
-              },
-              {
-                  "Device": "CANdle",
-                  "LatestRelease": "CANdle-Application-22.3.1.0-season2023.crf",
-                  "LatestVersion": "22.3.1.0",
-                  "AvailRelease": [
-                      "CANdle-Application-22.3.1.0-season2023.crf",
-                      "CANdle-Application-22.3.0.0-season2023.crf",
-                      "CANdle-Application-22.1.4.0-season2023.crf",
-                      "CANdle-Application-22.1.1.0-season2022.crf",
-                      "CANdle-Application-22.0.1.0-season2022.crf"
-                  ]
-              },
-              {
-                  "Device": "CANCoder",
-                  "LatestRelease": "CANCoder-Application-22.0.1.2-season2023.crf",
-                  "LatestVersion": "22.0.1.2",
-                  "AvailRelease": [
-                      "CANCoder-Application-22.0.1.2-season2023.crf",
-                      "CANCoder-Application-22.0.0.0-season2022.crf"
-                  ]
-              },
-              {
-                  "Device": "CANCodervers.H",
-                  "LatestRelease": "CANCoder-Application-vH-22.0.2.1-season2023.crf",
-                  "LatestVersion": "22.0.2.1",
-                  "AvailRelease": [
-                      "CANCoder-Application-vH-22.0.2.1-season2023.crf",
-                      "CANCoder-Application-vH-22.0.1.2-season2022.crf"
-                  ]
-              }
-          ]
-      }
-  }
+    "Version": "2.1.0.0",
+    "Latest": {
+        "v6": "2024",
+        "v5": "2022"
+    },
+    "Releases": {
+        "v6": {
+            "2025": [
+                {
+                    "Device": "TalonFXvers.C",
+                    "LatestRelease": "TalonFX-vC-25.0.2.0-Phoenix6-Beta.crf",
+                    "LatestVersion": "25.0.2.0",
+                    "Errata": "Update available that improves detection of excessive heat events. Strongly recommend updating to properly detect such events.",
+                    "AvailRelease": [
+                        "TalonFX-vc-25.0.2.0-Phoenix6-Beta.crf",
+                        "TalonFX-vC-25.0.1.0-Phoenix6-Beta.crf",
+                        "TalonFX-vC-25.0.0.0-Phoenix6-Beta.crf"
+                    ]
+                },
+                {
+                    "Device": "TalonFX",
+                    "LatestRelease": "TalonFX-25.0.2.0-Phoenix6-Beta.crf",
+                    "LatestVersion": "25.0.2.0",
+                    "Errata": "Update available that improves detection of excessive heat events. Strongly recommend updating to properly detect such events.",
+                    "AvailRelease": [
+                        "TalonFX-25.0.2.0-Phoenix6-Beta.crf",
+                        "TalonFX-25.0.1.0-Phoenix6-Beta.crf",
+                        "TalonFX-25.0.0.0-Phoenix6-Beta.crf"
+                    ]
+                },
+                {
+                    "Device": "Pigeon2",
+                    "LatestRelease": "Pigeon2-25.0.2.0-Phoenix6-Beta.crf",
+                    "LatestVersion": "25.0.2.0",
+                    "AvailRelease": [
+                        "Pigeon2-25.0.2.0-Phoenix6-Beta.crf",
+                        "Pigeon2-25.0.1.0-Phoenix6-Beta.crf",
+                        "Pigeon2-25.0.0.0-Phoenix6-Beta.crf"
+                    ]
+                },
+                {
+                    "Device": "Pigeon2vers.S",
+                    "LatestRelease": "Pigeon2vS-25.0.2.0-Phoenix6-Beta.crf",
+                    "LatestVersion": "25.0.2.0",
+                    "AvailRelease": [
+                        "Pigeon2vS-25.0.2.0-Phoenix6-Beta.crf",
+                        "Pigeon2vS-25.0.1.0-Phoenix6-Beta.crf",
+                        "Pigeon2vS-25.0.0.0-Phoenix6-Beta.crf"
+                    ]
+                },
+                {
+                    "Device": "CANCoder",
+                    "LatestRelease": "CANCoder-vK-25.0.2.0-Phoenix6-Beta.crf",
+                    "LatestVersion": "25.0.2.0",
+                    "AvailRelease": [
+                        "CANCoder-vK-25.0.2.0-Phoenix6-Beta.crf",
+                        "CANCoder-vK-25.0.1.0-Phoenix6-Beta.crf",
+                        "CANCoder-vK-25.0.0.0-Phoenix6-Beta.crf"
+                    ]
+                },
+                {
+                    "Device": "CANCodervers.H",
+                    "LatestRelease": "CANCoder-vH-25.0.2.0-Phoenix6-Beta.crf",
+                    "LatestVersion": "25.0.2.0",
+                    "AvailRelease": [
+                        "CANCoder-vH-25.0.2.0-Phoenix6-Beta.crf",
+                        "CANCoder-vH-25.0.1.0-Phoenix6-Beta.crf",
+                        "CANCoder-vH-25.0.0.0-Phoenix6-Beta.crf"
+                    ]
+                },
+                {
+                    "Device": "CANivore",
+                    "LatestRelease": "CANivore-25.0.0.0-Season2025.crf",
+                    "LatestVersion": "25.0.0.0",
+                    "AvailRelease": [
+                        "CANivore-25.0.0.0-Season2025.crf"
+                    ]
+                }
+            ],
+            "2024": [
+                {
+                    "Device": "TalonFXvers.C",
+                    "LatestRelease": "TalonFX-vC-24.4.4.0-Phoenix6.crf",
+                    "LatestVersion": "24.4.4.0",
+                    "CriticalVersion": "24.4.1.3",
+                    "Errata": "Update available that improves detection of excessive heat events. Strongly recommend updating to properly detect such events.",
+                    "AvailRelease": [
+                        "TalonFX-vC-24.4.4.0-Phoenix6.crf",
+                        "TalonFX-vC-24.4.3.1-Phoenix6.crf",
+                        "TalonFX-vC-24.4.2.2-Phoenix6.crf",
+                        "TalonFX-vC-24.4.1.3-Phoenix6.crf"
+                    ]
+                },
+                {
+                    "Device": "TalonFX",
+                    "LatestRelease": "TalonFX-24.4.4.0-Phoenix6.crf",
+                    "LatestVersion": "24.4.4.0",
+                    "CriticalVersion": "24.4.1.3",
+                    "Errata": "Update available that improves detection of excessive heat events. Strongly recommend updating to properly detect such events.",
+                    "AvailRelease": [
+                        "TalonFX-24.4.4.0-Phoenix6.crf",
+                        "TalonFX-24.4.3.1-Phoenix6.crf",
+                        "TalonFX-24.4.2.2-Phoenix6.crf",
+                        "TalonFX-24.4.1.3-Phoenix6.crf"
+                    ]
+                },
+                {
+                    "Device": "Pigeon2",
+                    "LatestRelease": "Pigeon2-24.1.0.0-Phoenix6.crf",
+                    "LatestVersion": "24.1.0.0",
+                    "AvailRelease": [
+                        "Pigeon2-24.1.0.0-Phoenix6.crf"
+                    ]
+                },
+                {
+                    "Device": "Pigeon2vers.S",
+                    "LatestRelease": "Pigeon2vS-24.1.0.0-Phoenix6.crf",
+                    "LatestVersion": "24.1.0.0",
+                    "AvailRelease": [
+                        "Pigeon2vS-24.1.0.0-Phoenix6.crf"
+                    ]
+                },
+                {
+                    "Device": "CANCoder",
+                    "LatestRelease": "CANCoder-vK-24.1.0.0-Phoenix6.crf",
+                    "LatestVersion": "24.1.0.0",
+                    "AvailRelease": [
+                        "CANCoder-vK-24.1.0.0-Phoenix6.crf"
+                    ]
+                },
+                {
+                    "Device": "CANCodervers.H",
+                    "LatestRelease": "CANCoder-vH-24.1.0.0-Phoenix6.crf",
+                    "LatestVersion": "24.1.0.0",
+                    "AvailRelease": [
+                        "CANCoder-vH-24.1.0.0-Phoenix6.crf"
+                    ]
+                },
+                {
+                    "Device": "CANivore",
+                    "LatestRelease": "CANivore-24.0.1.0-Season2024.crf",
+                    "LatestVersion": "24.0.1.0",
+                    "AvailRelease": [
+                        "CANivore-24.0.1.0-Season2024.crf",
+                        "CANivore-24.0.0.1-Season2024.crf"
+                    ]
+                }
+            ],
+            "2023": [
+                {
+                    "Device": "TalonFX",
+                    "LatestRelease": "TalonFX-Application-23.10.1.0-Phoenix6-season2023.crf",
+                    "LatestVersion": "23.10.1.0",
+                    "AvailRelease": [
+                        "TalonFX-Application-23.10.1.0-Phoenix6-season2023.crf",
+                        "TalonFX-Application-23.10.0.1-Phoenix6-season2023.crf",
+                        "TalonFX-Application-23.6.10.1-Pro-season2023.crf",
+                        "TalonFX-Application-23.6.9.0-Pro-season2023.crf",
+                        "TalonFX-Application-23.6.8.2-Pro-season2023.crf",
+                        "TalonFX-Application-23.6.7.0-Pro-season2023.crf",
+                        "TalonFX-Application-23.6.6.1-Pro-season2023.crf",
+                        "TalonFX-Application-23.6.5.0-Pro-season2023.crf",
+                        "TalonFX-Application-23.6.4.1-Pro-season2023.crf",
+                        "TalonFX-Application-23.6.3.2-Pro-season2023.crf",
+                        "TalonFX-Application-23.6.2.0-Pro-season2023.crf",
+                        "TalonFX-Application-23.5.0.0-Pro-season2023.crf",
+                        "TalonFX-Application-23.4.0.3-Pro-season2023.crf"
+                    ]
+                },
+                {
+                    "Device": "Pigeon2",
+                    "LatestRelease": "Pigeon2-Application-23.10.1.0-Phoenix6-season2023.crf",
+                    "LatestVersion": "23.10.1.0",
+                    "AvailRelease": [
+                        "Pigeon2-Application-23.10.1.0-Phoenix6-season2023.crf",
+                        "Pigeon2-Application-23.10.0.1-Phoenix6-season2023.crf",
+                        "Pigeon2-Application-23.1.6.0-Pro-season2023.crf",
+                        "Pigeon2-Application-23.1.4.1-Pro-season2023.crf",
+                        "Pigeon2-Application-23.1.2.1-Pro-season2023.crf",
+                        "Pigeon2-Application-23.1.1.2-Pro-season2023.crf"
+                    ]
+                },
+                {
+                    "Device": "Pigeon2vers.S",
+                    "LatestRelease": "Pigeon2-vS-Application-23.10.6.0-Phoenix6-season2023.crf",
+                    "LatestVersion": "23.10.6.0",
+                    "AvailRelease": [
+                        "Pigeon2-vS-Application-23.10.6.0-Phoenix6-season2023.crf"
+                    ]
+                },
+                {
+                    "Device": "CANCoder",
+                    "LatestRelease": "CANCoder-vK-Application-23.10.1.0-Phoenix6-season2023.crf",
+                    "LatestVersion": "23.10.1.0",
+                    "AvailRelease": [
+                        "CANCoder-vK-Application-23.10.1.0-Phoenix6-season2023.crf",
+                        "CANCoder-vK-Application-23.10.0.1-Phoenix6-season2023.crf",
+                        "CANCoder-vK-Application-23.1.3.0-Pro-season2023.crf",
+                        "CANCoder-vK-Application-23.1.1.3-Pro-season2023.crf"
+                    ]
+                },
+                {
+                    "Device": "CANCodervers.H",
+                    "LatestRelease": "CANCoder-vH-Application-23.10.1.0-Phoenix6-season2023.crf",
+                    "LatestVersion": "23.10.1.0",
+                    "AvailRelease": [
+                        "CANCoder-vH-Application-23.10.1.0-Phoenix6-season2023.crf",
+                        "CANCoder-vH-Application-23.10.0.1-Phoenix6-season2023.crf",
+                        "CANCoder-vH-Application-23.1.3.0-Pro-season2023.crf",
+                        "CANCoder-vH-Application-23.1.1.3-Pro-season2023.crf"
+                    ]
+                },
+                {
+                    "Device": "CANivore",
+                    "LatestRelease": "CANivore-Application-23.2.4.0-Season2023.crf",
+                    "LatestVersion": "23.2.4.0",
+                    "AvailRelease": [
+                        "CANivore-Application-23.2.4.0-Season2023.crf",
+                        "CANivore-Application-23.2.3.1-Season2023.crf",
+                        "CANivore-Application-23.2.1.0-Season2023.crf",
+                        "CANivore-Application-23.2.0.0-Season2023.crf"
+                    ]
+                }
+            ]
+        },
+        "v5": {
+            "2022": [
+                {
+                    "Device": "TalonSRX",
+                    "LatestRelease": "TalonSRX-Application-22.1-season2023.crf",
+                    "LatestVersion": "22.1",
+                    "AvailRelease": [
+                        "TalonSRX-Application-22.1-season2023.crf",
+                        "TalonSRX-Application-22.0-season2022.crf"
+                    ]
+                },
+                {
+                    "Device": "VictorSPX",
+                    "LatestRelease": "VictorSPX-Application-22.1-season2023.crf",
+                    "LatestVersion": "22.1",
+                    "AvailRelease": [
+                        "VictorSPX-Application-22.1-season2023.crf",
+                        "VictorSPX-Application-22.0-season2022.crf"
+                    ]
+                },
+                {
+                    "Device": "TalonFX",
+                    "LatestRelease": "TalonFX-Application-22.2.0.0-Season2024.crf",
+                    "LatestVersion": "22.2.0.0",
+                    "AvailRelease": [
+                        "TalonFX-Application-22.2.0.0-Season2024.crf"
+                    ]
+                },
+                {
+                    "Device": "Pigeon2",
+                    "LatestRelease": "Pigeon2-Application-22.6.4.1-season2023.crf",
+                    "LatestVersion": "22.6.4.1",
+                    "AvailRelease": [
+                        "Pigeon2-Application-22.6.4.1-season2023.crf",
+                        "Pigeon2-Application-22.6.3.1-season2023.crf",
+                        "Pigeon2-Application-22.6.2.2-season2023.crf",
+                        "Pigeon2-Application-22.6.1.0-season2022.crf"
+                    ]
+                },
+                {
+                    "Device": "Pigeon2vers.S",
+                    "LatestRelease": "Pigeon2-vS-Application-22.7.3.0-season2023.crf",
+                    "LatestVersion": "22.7.3.0",
+                    "AvailRelease": [
+                        "Pigeon2-vS-Application-22.7.3.0-season2023.crf"
+                    ]
+                },
+                {
+                    "Device": "Pigeon",
+                    "LatestRelease": "Pigeon-Application-22.0-season2023.crf",
+                    "LatestVersion": "22.0",
+                    "AvailRelease": [
+                        "Pigeon-Application-22.0-season2023.crf"
+                    ]
+                },
+                {
+                    "Device": "PDP",
+                    "LatestRelease": "PDP-Application-1.40.crf",
+                    "LatestVersion": "1.40",
+                    "AvailRelease": [
+                        "PDP-Application-1.40.crf"
+                    ]
+                },
+                {
+                    "Device": "PCM",
+                    "LatestRelease": "PCM-Application-1.65.crf",
+                    "LatestVersion": "1.65",
+                    "AvailRelease": [
+                        "PCM-Application-1.65.crf"
+                    ]
+                },
+                {
+                    "Device": "CANifier",
+                    "LatestRelease": "CANifier-Application-22.0-season2023.crf",
+                    "LatestVersion": "22.0",
+                    "AvailRelease": [
+                        "CANifier-Application-22.0-season2023.crf"
+                    ]
+                },
+                {
+                    "Device": "CANdle",
+                    "LatestRelease": "CANdle-Application-22.3.1.0-season2023.crf",
+                    "LatestVersion": "22.3.1.0",
+                    "AvailRelease": [
+                        "CANdle-Application-22.3.1.0-season2023.crf",
+                        "CANdle-Application-22.3.0.0-season2023.crf",
+                        "CANdle-Application-22.1.4.0-season2023.crf",
+                        "CANdle-Application-22.1.1.0-season2022.crf",
+                        "CANdle-Application-22.0.1.0-season2022.crf"
+                    ]
+                },
+                {
+                    "Device": "CANCoder",
+                    "LatestRelease": "CANCoder-Application-22.0.1.2-season2023.crf",
+                    "LatestVersion": "22.0.1.2",
+                    "AvailRelease": [
+                        "CANCoder-Application-22.0.1.2-season2023.crf",
+                        "CANCoder-Application-22.0.0.0-season2022.crf"
+                    ]
+                },
+                {
+                    "Device": "CANCodervers.H",
+                    "LatestRelease": "CANCoder-Application-vH-22.0.2.1-season2023.crf",
+                    "LatestVersion": "22.0.2.1",
+                    "AvailRelease": [
+                        "CANCoder-Application-vH-22.0.2.1-season2023.crf",
+                        "CANCoder-Application-vH-22.0.1.2-season2022.crf"
+                    ]
+                }
+            ]
+        }
+    }
 }
