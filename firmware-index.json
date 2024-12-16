@@ -13,8 +13,8 @@
                     "LatestVersion": "25.0.3.0",
                     "Errata": "Update available that improves detection of excessive heat events. Strongly recommend updating to properly detect such events.",
                     "AvailRelease": [
-                        "TalonFX-vc-25.0.3.0-Phoenix6-Beta.crf",
-                        "TalonFX-vc-25.0.2.0-Phoenix6-Beta.crf",
+                        "TalonFX-vC-25.0.3.0-Phoenix6-Beta.crf",
+                        "TalonFX-vC-25.0.2.0-Phoenix6-Beta.crf",
                         "TalonFX-vC-25.0.1.0-Phoenix6-Beta.crf",
                         "TalonFX-vC-25.0.0.0-Phoenix6-Beta.crf"
                     ]
