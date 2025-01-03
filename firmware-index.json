@@ -1,7 +1,7 @@
 {
     "Version": "2.1.0.0",
     "Latest": {
-        "v6": "2024",
+        "v6": "2025",
         "v5": "2022"
     },
     "Releases": {
@@ -9,70 +9,52 @@
             "2025": [
                 {
                     "Device": "TalonFXvers.C",
-                    "LatestRelease": "TalonFX-vC-25.0.3.0-Phoenix6-Beta.crf",
-                    "LatestVersion": "25.0.3.0",
+                    "LatestRelease": "TalonFX-vC-25.1.0.0-Phoenix6.crf",
+                    "LatestVersion": "25.1.0.0",
                     "Errata": "Update available that improves detection of excessive heat events. Strongly recommend updating to properly detect such events.",
                     "AvailRelease": [
-                        "TalonFX-vC-25.0.3.0-Phoenix6-Beta.crf",
-                        "TalonFX-vC-25.0.2.0-Phoenix6-Beta.crf",
-                        "TalonFX-vC-25.0.1.0-Phoenix6-Beta.crf",
-                        "TalonFX-vC-25.0.0.0-Phoenix6-Beta.crf"
+                        "TalonFX-vC-25.1.0.0-Phoenix6.crf"
                     ]
                 },
                 {
                     "Device": "TalonFX",
-                    "LatestRelease": "TalonFX-25.0.3.0-Phoenix6-Beta.crf",
-                    "LatestVersion": "25.0.3.0",
+                    "LatestRelease": "TalonFX-25.1.0.0-Phoenix6.crf",
+                    "LatestVersion": "25.1.0.0",
                     "Errata": "Update available that improves detection of excessive heat events. Strongly recommend updating to properly detect such events.",
                     "AvailRelease": [
-                        "TalonFX-25.0.3.0-Phoenix6-Beta.crf",
-                        "TalonFX-25.0.2.0-Phoenix6-Beta.crf",
-                        "TalonFX-25.0.1.0-Phoenix6-Beta.crf",
-                        "TalonFX-25.0.0.0-Phoenix6-Beta.crf"
+                        "TalonFX-25.1.0.0-Phoenix6.crf"
                     ]
                 },
                 {
                     "Device": "Pigeon2",
-                    "LatestRelease": "Pigeon2-25.0.3.0-Phoenix6-Beta.crf",
-                    "LatestVersion": "25.0.3.0",
+                    "LatestRelease": "Pigeon2-25.1.0.0-Phoenix6.crf",
+                    "LatestVersion": "25.1.0.0",
                     "AvailRelease": [
-                        "Pigeon2-25.0.3.0-Phoenix6-Beta.crf",
-                        "Pigeon2-25.0.2.0-Phoenix6-Beta.crf",
-                        "Pigeon2-25.0.1.0-Phoenix6-Beta.crf",
-                        "Pigeon2-25.0.0.0-Phoenix6-Beta.crf"
+                        "Pigeon2-25.1.0.0-Phoenix6.crf"
                     ]
                 },
                 {
                     "Device": "Pigeon2vers.S",
-                    "LatestRelease": "Pigeon2vS-25.0.3.0-Phoenix6-Beta.crf",
-                    "LatestVersion": "25.0.3.0",
+                    "LatestRelease": "Pigeon2vS-25.1.0.0-Phoenix6.crf",
+                    "LatestVersion": "25.1.0.0",
                     "AvailRelease": [
-                        "Pigeon2vS-25.0.3.0-Phoenix6-Beta.crf",
-                        "Pigeon2vS-25.0.2.0-Phoenix6-Beta.crf",
-                        "Pigeon2vS-25.0.1.0-Phoenix6-Beta.crf",
-                        "Pigeon2vS-25.0.0.0-Phoenix6-Beta.crf"
+                        "Pigeon2vS-25.1.0.0-Phoenix6.crf"
                     ]
                 },
                 {
                     "Device": "CANCoder",
-                    "LatestRelease": "CANCoder-vK-25.0.3.0-Phoenix6-Beta.crf",
-                    "LatestVersion": "25.0.3.0",
+                    "LatestRelease": "CANCoder-vK-25.1.0.0-Phoenix6.crf",
+                    "LatestVersion": "25.1.0.0",
                     "AvailRelease": [
-                        "CANCoder-vK-25.0.3.0-Phoenix6-Beta.crf",
-                        "CANCoder-vK-25.0.2.0-Phoenix6-Beta.crf",
-                        "CANCoder-vK-25.0.1.0-Phoenix6-Beta.crf",
-                        "CANCoder-vK-25.0.0.0-Phoenix6-Beta.crf"
+                        "CANCoder-vK-25.1.0.0-Phoenix6.crf"
                     ]
                 },
                 {
                     "Device": "CANCodervers.H",
-                    "LatestRelease": "CANCoder-vH-25.0.3.0-Phoenix6-Beta.crf",
-                    "LatestVersion": "25.0.3.0",
+                    "LatestRelease": "CANCoder-vH-25.1.0.0-Phoenix6.crf",
+                    "LatestVersion": "25.1.0.0",
                     "AvailRelease": [
-                        "CANCoder-vH-25.0.3.0-Phoenix6-Beta.crf",
-                        "CANCoder-vH-25.0.2.0-Phoenix6-Beta.crf",
-                        "CANCoder-vH-25.0.1.0-Phoenix6-Beta.crf",
-                        "CANCoder-vH-25.0.0.0-Phoenix6-Beta.crf"
+                        "CANCoder-vH-25.1.0.0-Phoenix6.crf"
                     ]
                 },
                 {
@@ -85,10 +67,10 @@
                 },
                 {
                     "Device": "CANrange",
-                    "LatestRelease": "CANrange-25.0.3.0-Phoenix6-Beta.crf",
-                    "LatestVersion": "25.0.3.0",
+                    "LatestRelease": "CANrange-25.1.0.0-Phoenix6.crf",
+                    "LatestVersion": "25.1.0.0",
                     "AvailRelease": [
-                        "CANrange-25.0.3.0-Phoenix6-Beta.crf"
+                        "CANrange-25.1.0.0-Phoenix6.crf"
                     ]
                 }
             ],
@@ -319,9 +301,10 @@
                 },
                 {
                     "Device": "CANdle",
-                    "LatestRelease": "CANdle-Application-22.3.1.0-season2023.crf",
-                    "LatestVersion": "22.3.1.0",
+                    "LatestRelease": "CANdle-Application-22.3.3.0-season2025.crf",
+                    "LatestVersion": "22.3.3.0",
                     "AvailRelease": [
+                        "CANdle-Application-22.3.3.0-season2025.crf",
                         "CANdle-Application-22.3.1.0-season2023.crf",
                         "CANdle-Application-22.3.0.0-season2023.crf",
                         "CANdle-Application-22.1.4.0-season2023.crf",
