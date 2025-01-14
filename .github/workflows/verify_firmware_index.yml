@@ -21,4 +21,4 @@ jobs:
       with:
         python-version: '3.13' 
 
-    - run: python verify-firmware.py
+    - run: python verify_firmware.py
