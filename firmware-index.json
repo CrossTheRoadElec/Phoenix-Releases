@@ -8,6 +8,14 @@
         "v6": {
             "2025": [
                 {
+                    "Device": "TalonFXvers.F",
+                    "LatestRelease": "TalonFX-vF-25.2.0.0-Phoenix6.crf",
+                    "LatestVersion": "25.2.0.0",
+                    "AvailRelease": [
+                        "TalonFX-vF-25.2.0.0-Phoenix6.crf"
+                    ]
+                },
+                {
                     "Device": "TalonFXvers.C",
                     "LatestRelease": "TalonFX-vC-25.2.0.0-Phoenix6.crf",
                     "LatestVersion": "25.2.0.0",
