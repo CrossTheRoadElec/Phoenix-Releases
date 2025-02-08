@@ -80,7 +80,7 @@
                 {
                     "Device": "CANCodervers.H",
                     "LatestRelease": "CANCoder-vH-25.2.2.0-Phoenix6.crf",
-                    "LatestVersion": "25.2.0.0",
+                    "LatestVersion": "25.2.2.0",
                     "AvailRelease": [
                         "CANCoder-vH-25.2.2.0-Phoenix6.crf",
                         "CANCoder-vH-25.1.0.0-Phoenix6.crf"
@@ -105,7 +105,7 @@
                 },
                 {
                     "Device": "CANdi",
-                    "LatestRelease": "CANdi-25.2.0.0-Phoenix6.crf",
+                    "LatestRelease": "CANdi-25.2.2.0-Phoenix6.crf",
                     "LatestVersion": "25.2.2.0",
                     "AvailRelease": [
                         "CANdi-25.2.2.0-Phoenix6.crf",
