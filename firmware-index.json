@@ -9,9 +9,10 @@
             "2025": [
                 {
                     "Device": "TalonFXS",
-                    "LatestRelease": "TalonFXS-25.2.3.0-Phoenix6.crf",
-                    "LatestVersion": "25.2.3.0",
+                    "LatestRelease": "TalonFXS-25.3.0.0-Phoenix6.crf",
+                    "LatestVersion": "25.3.0.0",
                     "AvailRelease": [
+                        "TalonFXS-25.3.0.0-Phoenix6.crf",
                         "TalonFXS-25.2.3.0-Phoenix6.crf",
                         "TalonFXS-25.2.2.0-Phoenix6.crf",
                         "TalonFXS-25.2.1.2-Phoenix6.crf"
@@ -19,9 +20,12 @@
                 },
                 {
                     "Device": "TalonFXvers.F",
-                    "LatestRelease": "TalonFX-vF-25.2.3.0-Phoenix6.crf",
-                    "LatestVersion": "25.2.3.0",
+                    "LatestRelease": "TalonFX-vF-25.3.0.0-Phoenix6.crf",
+                    "LatestVersion": "25.3.0.0",
+                    "Errata": "Additional thermal protections added to compensate for the reduced thermal capacity of the X44.",
+                    "CriticalVersion": "25.3.0.0",
                     "AvailRelease": [
+                        "TalonFX-vF-25.3.0.0-Phoenix6.crf",
                         "TalonFX-vF-25.2.3.0-Phoenix6.crf",
                         "TalonFX-vF-25.2.2.0-Phoenix6.crf",
                         "TalonFX-vF-25.2.1.0-Phoenix6.crf",
@@ -30,10 +34,11 @@
                 },
                 {
                     "Device": "TalonFXvers.C",
-                    "LatestRelease": "TalonFX-vC-25.2.3.0-Phoenix6.crf",
-                    "LatestVersion": "25.2.3.0",
+                    "LatestRelease": "TalonFX-vC-25.3.0.0-Phoenix6.crf",
+                    "LatestVersion": "25.3.0.0",
                     "Errata": "Update available that improves detection of excessive heat events. Strongly recommend updating to properly detect such events.",
                     "AvailRelease": [
+                        "TalonFX-vC-25.3.0.0-Phoenix6.crf",
                         "TalonFX-vC-25.2.3.0-Phoenix6.crf",
                         "TalonFX-vC-25.2.2.0-Phoenix6.crf",
                         "TalonFX-vC-25.2.1.0-Phoenix6.crf",
@@ -43,10 +48,11 @@
                 },
                 {
                     "Device": "TalonFX",
-                    "LatestRelease": "TalonFX-25.2.3.0-Phoenix6.crf",
-                    "LatestVersion": "25.2.3.0",
+                    "LatestRelease": "TalonFX-25.3.0.0-Phoenix6.crf",
+                    "LatestVersion": "25.3.0.0",
                     "Errata": "Update available that improves detection of excessive heat events. Strongly recommend updating to properly detect such events.",
                     "AvailRelease": [
+                        "TalonFX-25.3.0.0-Phoenix6.crf",
                         "TalonFX-25.2.3.0-Phoenix6.crf",
                         "TalonFX-25.2.2.0-Phoenix6.crf",
                         "TalonFX-25.2.1.0-Phoenix6.crf",
@@ -56,18 +62,20 @@
                 },
                 {
                     "Device": "Pigeon2",
-                    "LatestRelease": "Pigeon2-25.2.2.0-Phoenix6.crf",
-                    "LatestVersion": "25.2.2.0",
+                    "LatestRelease": "Pigeon2-25.3.0.0-Phoenix6.crf",
+                    "LatestVersion": "25.3.0.0",
                     "AvailRelease": [
+                        "Pigeon2-25.3.0.0-Phoenix6.crf",
                         "Pigeon2-25.2.2.0-Phoenix6.crf",
                         "Pigeon2-25.1.0.0-Phoenix6.crf"
                     ]
                 },
                 {
                     "Device": "Pigeon2vers.S",
-                    "LatestRelease": "Pigeon2vS-25.2.2.0-Phoenix6.crf",
-                    "LatestVersion": "25.2.2.0",
+                    "LatestRelease": "Pigeon2vS-25.3.0.0-Phoenix6.crf",
+                    "LatestVersion": "25.3.0.0",
                     "AvailRelease": [
+                        "Pigeon2vS-25.3.0.0-Phoenix6.crf",
                         "Pigeon2vS-25.2.2.0-Phoenix6.crf",
                         "Pigeon2vS-25.1.0.0-Phoenix6.crf"
                     ]
@@ -92,9 +100,10 @@
                 },
                 {
                     "Device": "CANivore",
-                    "LatestRelease": "CANivore-25.0.0.0-Season2025.crf",
-                    "LatestVersion": "25.0.0.0",
+                    "LatestRelease": "CANivore-25.3.0.0-Season2025.crf",
+                    "LatestVersion": "25.3.0.0",
                     "AvailRelease": [
+                        "CANivore-25.3.0.0-Season2025.crf",
                         "CANivore-25.0.0.0-Season2025.crf"
                     ]
                 },
@@ -109,9 +118,10 @@
                 },
                 {
                     "Device": "CANdi",
-                    "LatestRelease": "CANdi-25.2.3.0-Phoenix6.crf",
-                    "LatestVersion": "25.2.3.0",
+                    "LatestRelease": "CANdi-25.3.0.0-Phoenix6.crf",
+                    "LatestVersion": "25.3.0.0",
                     "AvailRelease": [
+                        "CANdi-25.3.0.0-Phoenix6.crf",
                         "CANdi-25.2.3.0-Phoenix6.crf",
                         "CANdi-25.2.2.0-Phoenix6.crf",
                         "CANdi-25.2.0.0-Phoenix6.crf"
