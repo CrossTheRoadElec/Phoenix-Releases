@@ -9,9 +9,10 @@
             "2025": [
                 {
                     "Device": "TalonFXS",
-                    "LatestRelease": "TalonFXS-25.4.0.0-Phoenix6.crf",
-                    "LatestVersion": "25.4.0.0",
+                    "LatestRelease": "TalonFXS-25.4.1.1-Phoenix6.crf",
+                    "LatestVersion": "25.4.1.1",
                     "AvailRelease": [
+                        "TalonFXS-25.4.1.1-Phoenix6.crf",
                         "TalonFXS-25.4.0.0-Phoenix6.crf",
                         "TalonFXS-25.3.0.0-Phoenix6.crf",
                         "TalonFXS-25.2.3.0-Phoenix6.crf",
@@ -127,9 +128,10 @@
                 },
                 {
                     "Device": "CANdi",
-                    "LatestRelease": "CANdi-25.3.0.0-Phoenix6.crf",
-                    "LatestVersion": "25.3.0.0",
+                    "LatestRelease": "CANdi-25.4.1.0-Phoenix6.crf",
+                    "LatestVersion": "25.4.1.0",
                     "AvailRelease": [
+                        "CANdi-25.4.1.0-Phoenix6.crf",
                         "CANdi-25.3.0.0-Phoenix6.crf",
                         "CANdi-25.2.3.0-Phoenix6.crf",
                         "CANdi-25.2.2.0-Phoenix6.crf",
