@@ -9,9 +9,10 @@
             "2025": [
                 {
                     "Device": "TalonFXS",
-                    "LatestRelease": "TalonFXS-25.4.3.0-Phoenix6.crf",
-                    "LatestVersion": "25.4.3.0",
+                    "LatestRelease": "TalonFXS-25.4.4.0-Phoenix6.crf",
+                    "LatestVersion": "25.4.4.0",
                     "AvailRelease": [
+                        "TalonFXS-25.4.4.0-Phoenix6.crf",
                         "TalonFXS-25.4.3.0-Phoenix6.crf",
                         "TalonFXS-25.4.2.1-Phoenix6.crf",
                         "TalonFXS-25.4.1.1-Phoenix6.crf",
