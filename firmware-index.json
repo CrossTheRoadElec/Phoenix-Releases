@@ -370,9 +370,10 @@
                 },
                 {
                     "Device": "CANdle",
-                    "LatestRelease": "CANdle-Application-22.3.3.0-season2025.crf",
-                    "LatestVersion": "22.3.3.0",
+                    "LatestRelease": "CANdle-Application-22.4.0.1-season2025.crf",
+                    "LatestVersion": "22.4.0.1",
                     "AvailRelease": [
+                        "CANdle-Application-22.4.0.1-season2025.crf",
                         "CANdle-Application-22.3.3.0-season2025.crf",
                         "CANdle-Application-22.3.1.0-season2023.crf",
                         "CANdle-Application-22.3.0.0-season2023.crf",
