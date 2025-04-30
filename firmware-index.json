@@ -9,9 +9,10 @@
             "2025": [
                 {
                     "Device": "TalonFXS",
-                    "LatestRelease": "TalonFXS-25.4.4.0-Phoenix6.crf",
-                    "LatestVersion": "25.4.4.0",
+                    "LatestRelease": "TalonFXS-25.5.0.0-Phoenix6.crf",
+                    "LatestVersion": "25.5.0.0",
                     "AvailRelease": [
+                        "TalonFXS-25.5.0.0-Phoenix6.crf",
                         "TalonFXS-25.4.4.0-Phoenix6.crf",
                         "TalonFXS-25.4.3.0-Phoenix6.crf",
                         "TalonFXS-25.4.2.1-Phoenix6.crf",
@@ -25,11 +26,11 @@
                 },
                 {
                     "Device": "TalonFXvers.F",
-                    "LatestRelease": "TalonFX-vF-25.3.0.0-Phoenix6.crf",
-                    "LatestVersion": "25.3.0.0",
+                    "LatestRelease": "TalonFX-vF-25.5.0.0-Phoenix6.crf",
+                    "LatestVersion": "25.5.0.0",
                     "Errata": "Additional thermal protections added to compensate for the reduced thermal capacity of the X44.",
-                    "CriticalVersion": "25.3.0.0",
                     "AvailRelease": [
+                        "TalonFX-vF-25.5.0.0-Phoenix6.crf",
                         "TalonFX-vF-25.3.0.0-Phoenix6.crf",
                         "TalonFX-vF-25.2.3.0-Phoenix6.crf",
                         "TalonFX-vF-25.2.2.0-Phoenix6.crf",
@@ -39,10 +40,11 @@
                 },
                 {
                     "Device": "TalonFXvers.C",
-                    "LatestRelease": "TalonFX-vC-25.3.0.0-Phoenix6.crf",
-                    "LatestVersion": "25.3.0.0",
+                    "LatestRelease": "TalonFX-vC-25.5.0.0-Phoenix6.crf",
+                    "LatestVersion": "25.5.0.0",
                     "Errata": "Update available that improves detection of excessive heat events. Strongly recommend updating to properly detect such events.",
                     "AvailRelease": [
+                        "TalonFX-vC-25.5.0.0-Phoenix6.crf",
                         "TalonFX-vC-25.3.0.0-Phoenix6.crf",
                         "TalonFX-vC-25.2.3.0-Phoenix6.crf",
                         "TalonFX-vC-25.2.2.0-Phoenix6.crf",
@@ -53,10 +55,11 @@
                 },
                 {
                     "Device": "TalonFX",
-                    "LatestRelease": "TalonFX-25.3.0.0-Phoenix6.crf",
-                    "LatestVersion": "25.3.0.0",
+                    "LatestRelease": "TalonFX-25.0.0.0-Phoenix6.crf",
+                    "LatestVersion": "25.5.0.0",
                     "Errata": "Update available that improves detection of excessive heat events. Strongly recommend updating to properly detect such events.",
                     "AvailRelease": [
+                        "TalonFX-25.5.0.0-Phoenix6.crf",
                         "TalonFX-25.3.0.0-Phoenix6.crf",
                         "TalonFX-25.2.3.0-Phoenix6.crf",
                         "TalonFX-25.2.2.0-Phoenix6.crf",
@@ -67,9 +70,10 @@
                 },
                 {
                     "Device": "Pigeon2",
-                    "LatestRelease": "Pigeon2-25.3.0.0-Phoenix6.crf",
-                    "LatestVersion": "25.3.0.0",
+                    "LatestRelease": "Pigeon2-25.5.0.0-Phoenix6.crf",
+                    "LatestVersion": "25.5.0.0",
                     "AvailRelease": [
+                        "Pigeon2-25.5.0.0-Phoenix6.crf",
                         "Pigeon2-25.3.0.0-Phoenix6.crf",
                         "Pigeon2-25.2.2.0-Phoenix6.crf",
                         "Pigeon2-25.1.0.0-Phoenix6.crf"
@@ -77,9 +81,10 @@
                 },
                 {
                     "Device": "Pigeon2vers.S",
-                    "LatestRelease": "Pigeon2vS-25.3.0.0-Phoenix6.crf",
-                    "LatestVersion": "25.3.0.0",
+                    "LatestRelease": "Pigeon2vS-25.5.0.0-Phoenix6.crf",
+                    "LatestVersion": "25.5.0.0",
                     "AvailRelease": [
+                        "Pigeon2vS-25.5.0.0-Phoenix6.crf",
                         "Pigeon2vS-25.3.0.0-Phoenix6.crf",
                         "Pigeon2vS-25.2.2.0-Phoenix6.crf",
                         "Pigeon2vS-25.1.0.0-Phoenix6.crf"
@@ -87,27 +92,36 @@
                 },
                 {
                     "Device": "CANCoder",
-                    "LatestRelease": "CANCoder-vK-25.2.2.0-Phoenix6.crf",
-                    "LatestVersion": "25.2.2.0",
+                    "LatestRelease": "CANCoder-vK-25.5.0.0-Phoenix6.crf",
+                    "Errata": "Update available that fixes unstable position/velocity reporting for CANcoders manufactured and sold starting May 2025.",
+                    "CriticalVersion": "25.5.0.0",
+                    "LatestVersion": "25.5.0.0",
                     "AvailRelease": [
+                        "CANCoder-vK-25.5.0.0-Phoenix6.crf",
                         "CANCoder-vK-25.2.2.0-Phoenix6.crf",
                         "CANCoder-vK-25.1.0.0-Phoenix6.crf"
                     ]
                 },
                 {
                     "Device": "CANCodervers.H",
-                    "LatestRelease": "CANCoder-vH-25.2.2.0-Phoenix6.crf",
-                    "LatestVersion": "25.2.2.0",
+                    "LatestRelease": "CANCoder-vH-25.5.0.0-Phoenix6.crf",
+                    "Errata": "Update available that fixes unstable position/velocity reporting for CANcoders manufactured and sold starting May 2025.",
+                    "CriticalVersion": "25.5.0.0",
+                    "LatestVersion": "25.5.0.0",
                     "AvailRelease": [
+                        "CANCoder-vH-25.5.0.0-Phoenix6.crf",
                         "CANCoder-vH-25.2.2.0-Phoenix6.crf",
                         "CANCoder-vH-25.1.0.0-Phoenix6.crf"
                     ]
                 },
                 {
                     "Device": "CANCodervers.T",
-                    "LatestRelease": "CANCoder-vT-25.3.0.6-Phoenix6.crf",
-                    "LatestVersion": "25.3.0.6",
+                    "LatestRelease": "CANCoder-vT-25.5.0.0-Phoenix6.crf",
+                    "Errata": "Update available that fixes unstable position/velocity reporting for CANcoders manufactured and sold starting May 2025.",
+                    "CriticalVersion": "25.5.0.0",
+                    "LatestVersion": "25.5.0.0",
                     "AvailRelease": [
+                        "CANCoder-vT-25.5.0.0-Phoenix6.crf",
                         "CANCoder-vT-25.3.0.6-Phoenix6.crf"
                     ]
                 },
@@ -122,24 +136,34 @@
                 },
                 {
                     "Device": "CANrange",
-                    "LatestRelease": "CANrange-25.2.2.0-Phoenix6.crf",
-                    "LatestVersion": "25.2.2.0",
+                    "LatestRelease": "CANrange-25.5.0.0-Phoenix6.crf",
+                    "LatestVersion": "25.5.0.0",
                     "AvailRelease": [
+                        "CANrange-25.5.0.0-Phoenix6.crf",
                         "CANrange-25.2.2.0-Phoenix6.crf",
                         "CANrange-25.1.0.0-Phoenix6.crf"
                     ]
                 },
                 {
                     "Device": "CANdi",
-                    "LatestRelease": "CANdi-25.4.3.0-Phoenix6.crf",
-                    "LatestVersion": "25.4.3.0",
+                    "LatestRelease": "CANdi-25.5.0.0-Phoenix6.crf",
+                    "LatestVersion": "25.5.0.0",
                     "AvailRelease": [
+                        "CANdi-25.5.0.0-Phoenix6.crf",
                         "CANdi-25.4.3.0-Phoenix6.crf",
                         "CANdi-25.4.1.0-Phoenix6.crf",
                         "CANdi-25.3.0.0-Phoenix6.crf",
                         "CANdi-25.2.3.0-Phoenix6.crf",
                         "CANdi-25.2.2.0-Phoenix6.crf",
                         "CANdi-25.2.0.0-Phoenix6.crf"
+                    ]
+                },
+                {
+                    "Device": "CANdle",
+                    "LatestRelease": "CANdle-25.5.0.0-Phoenix6.crf",
+                    "LatestVersion": "25.5.0.0",
+                    "AvailRelease": [
+                        "CANdi-25.5.0.0-Phoenix6.crf"
                     ]
                 }
             ],
