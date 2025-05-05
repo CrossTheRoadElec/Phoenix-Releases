@@ -9,9 +9,10 @@
             "2025": [
                 {
                     "Device": "TalonFXS",
-                    "LatestRelease": "TalonFXS-25.5.0.0-Phoenix6.crf",
-                    "LatestVersion": "25.5.0.0",
+                    "LatestRelease": "TalonFXS-25.5.1.0-Phoenix6.crf",
+                    "LatestVersion": "25.5.1.0",
                     "AvailRelease": [
+                        "TalonFXS-25.5.1.0-Phoenix6.crf",
                         "TalonFXS-25.5.0.0-Phoenix6.crf",
                         "TalonFXS-25.4.4.0-Phoenix6.crf",
                         "TalonFXS-25.4.3.0-Phoenix6.crf",
@@ -26,10 +27,11 @@
                 },
                 {
                     "Device": "TalonFXvers.F",
-                    "LatestRelease": "TalonFX-vF-25.5.0.0-Phoenix6.crf",
-                    "LatestVersion": "25.5.0.0",
+                    "LatestRelease": "TalonFX-vF-25.5.1.0-Phoenix6.crf",
+                    "LatestVersion": "25.5.1.0",
                     "Errata": "Additional thermal protections added to compensate for the reduced thermal capacity of the X44.",
                     "AvailRelease": [
+                        "TalonFX-vF-25.5.1.0-Phoenix6.crf",
                         "TalonFX-vF-25.5.0.0-Phoenix6.crf",
                         "TalonFX-vF-25.3.0.0-Phoenix6.crf",
                         "TalonFX-vF-25.2.3.0-Phoenix6.crf",
@@ -40,10 +42,11 @@
                 },
                 {
                     "Device": "TalonFXvers.C",
-                    "LatestRelease": "TalonFX-vC-25.5.0.0-Phoenix6.crf",
-                    "LatestVersion": "25.5.0.0",
+                    "LatestRelease": "TalonFX-vC-25.5.1.0-Phoenix6.crf",
+                    "LatestVersion": "25.5.1.0",
                     "Errata": "Update available that improves detection of excessive heat events. Strongly recommend updating to properly detect such events.",
                     "AvailRelease": [
+                        "TalonFX-vF-25.5.1.0-Phoenix6.crf",
                         "TalonFX-vC-25.5.0.0-Phoenix6.crf",
                         "TalonFX-vC-25.3.0.0-Phoenix6.crf",
                         "TalonFX-vC-25.2.3.0-Phoenix6.crf",
@@ -55,10 +58,11 @@
                 },
                 {
                     "Device": "TalonFX",
-                    "LatestRelease": "TalonFX-25.5.0.0-Phoenix6.crf",
-                    "LatestVersion": "25.5.0.0",
+                    "LatestRelease": "TalonFX-25.5.1.0-Phoenix6.crf",
+                    "LatestVersion": "25.5.1.0",
                     "Errata": "Update available that improves detection of excessive heat events. Strongly recommend updating to properly detect such events.",
                     "AvailRelease": [
+                        "TalonFX-25.5.1.0-Phoenix6.crf",
                         "TalonFX-25.5.0.0-Phoenix6.crf",
                         "TalonFX-25.3.0.0-Phoenix6.crf",
                         "TalonFX-25.2.3.0-Phoenix6.crf",
@@ -162,9 +166,10 @@
                 },
                 {
                     "Device": "CANdle",
-                    "LatestRelease": "CANdle-25.5.0.0-Phoenix6.crf",
-                    "LatestVersion": "25.5.0.0",
+                    "LatestRelease": "CANdle-25.5.1.0-Phoenix6.crf",
+                    "LatestVersion": "25.5.1.0",
                     "AvailRelease": [
+                        "CANdle-25.5.1.0-Phoenix6.crf",
                         "CANdle-25.5.0.0-Phoenix6.crf"
                     ]
                 }
