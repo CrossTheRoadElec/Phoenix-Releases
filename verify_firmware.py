@@ -28,8 +28,11 @@ dev_entry = [a for (_, major_vers) in firmware_files["Releases"].items()
 version_regex = r'([0-9]+)\.([0-9]+)(\.([0-9]+)\.([0-9]+))?'
 
 for d in dev_entry:
-    if d["LatestRelease"] != d["AvailRelease"][0]:
-        raise Exception(f"Device {d['Device']} does not have latest release matching first avail release")
+    try:
+        if d["LatestRelease"] != d["AvailRelease"][0]:
+            raise Exception(f"Device {d['Device']} does not have latest release matching first avail release")
+    except:
+        raise Exception(f"Device {d['Device']} is missing available releases")
     
 
     latest_vers_num_regex = re.search(version_regex, d["LatestRelease"])

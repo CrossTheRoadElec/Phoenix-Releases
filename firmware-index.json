@@ -7,7 +7,7 @@
     "Releases": {
         "v6": {
             "2027-alpha-1": [
-{
+            {
                     "Device": "TalonFXS",
                     "LatestRelease": "TalonFXS-25.90.0.0-Phoenix6.crf",
                     "LatestVersion": "25.90.0.0",
@@ -84,6 +84,7 @@
                     "LatestRelease": "CANivore-25.3.0.0-Season2025.crf",
                     "LatestVersion": "25.3.0.0",
                     "AvailRelease": [
+                        "CANivore-25.3.0.0-Season2025.crf"
                     ]
                 },
                 {
