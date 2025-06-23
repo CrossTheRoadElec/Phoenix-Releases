@@ -2,18 +2,25 @@ import json
 import os
 import re
 
-with open('firmware-index.json', 'r') as f:
+with open("firmware-index.json", "r") as f:
     firmware_files = json.load(f)
 
-all_firmwares_in_index = [a for (_, major_vers) in firmware_files["Releases"].items() 
-                            for (_, vers_cont) in major_vers.items() 
-                            for dev_entry in vers_cont 
-                            for a in dev_entry['AvailRelease']]
-all_firmwares_in_directory = os.listdir('ctr-device-firmware')
+all_firmwares_in_index = [
+    a
+    for (_, major_vers) in firmware_files["Releases"].items()
+    for (_, vers_cont) in major_vers.items()
+    for dev_entry in vers_cont
+    for a in dev_entry["AvailRelease"]
+]
+all_firmwares_in_directory = os.listdir("ctr-device-firmware")
 
-items_missing_from_directory = list(set(all_firmwares_in_index).difference(all_firmwares_in_directory))
+items_missing_from_directory = list(
+    set(all_firmwares_in_index).difference(all_firmwares_in_directory)
+)
 if len(items_missing_from_directory) != 0:
-    raise Exception(f'The following firmwares are not present in the directory: {items_missing_from_directory}')
+    raise Exception(
+        f"The following firmwares are not present in the directory: {items_missing_from_directory}"
+    )
 
 # We don't care about any firmwares that are in the directory that aren't present in the index
 # items_missing_from_index = list(set(all_firmwares_in_directory).difference(all_firmwares_in_index))
@@ -21,19 +28,23 @@ if len(items_missing_from_directory) != 0:
 #     raise Exception(f'The following firmwares are not present in the index: {items_missing_from_index}')
 
 
-dev_entry = [a for (_, major_vers) in firmware_files["Releases"].items() 
-               for (_, vers_cont) in major_vers.items() 
-               for a in vers_cont]
+dev_entry = [
+    a
+    for (_, major_vers) in firmware_files["Releases"].items()
+    for (_, vers_cont) in major_vers.items()
+    for a in vers_cont
+]
 
-version_regex = r'([0-9]+)\.([0-9]+)(\.([0-9]+)\.([0-9]+))?'
+version_regex = r"([0-9]+)\.([0-9]+)(\.([0-9]+)\.([0-9]+))?"
 
 for d in dev_entry:
-    if len(d["AvailRelease"]) != 0:
+    if len(d["AvailRelease"]):
         if d["LatestRelease"] != d["AvailRelease"][0]:
-            raise Exception(f"Device {d['Device']} does not have latest release matching first avail release")
+            raise Exception(
+                f"Device {d['Device']} does not have latest release matching first avail release"
+            )
     else:
         raise Exception(f"Device {d['Device']} is missing available releases")
-    
 
     latest_vers_num_regex = re.search(version_regex, d["LatestRelease"])
     latest_vers = latest_vers_num_regex.group(0)
