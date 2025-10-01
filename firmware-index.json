@@ -227,12 +227,12 @@
                 },
                 {
                     "Device": "CANCodervers.T",
-                    "LatestRelease": "CANCoder-vT-25.5.0.0-Phoenix6.crf",
+                    "LatestRelease": "CANCoder-vT-25.5.0.6-Phoenix6.crf",
                     "Errata": "Update available that fixes unstable position/velocity reporting for CANcoders manufactured and sold starting May 2025.",
-                    "CriticalVersion": "25.5.0.0",
-                    "LatestVersion": "25.5.0.0",
+                    "CriticalVersion": "25.5.0.6",
+                    "LatestVersion": "25.5.0.6",
                     "AvailRelease": [
-                        "CANCoder-vT-25.5.0.0-Phoenix6.crf",
+                        "CANCoder-vT-25.5.0.6-Phoenix6.crf",
                         "CANCoder-vT-25.3.0.6-Phoenix6.crf"
                     ]
                 },
