@@ -197,10 +197,9 @@
                 },
                 {
                     "Device": "CANivore",
-                    "LatestRelease": "CANivore-26.1.0.0-Season2026.crf",
-                    "LatestVersion": "26.1.0.0",
+                    "LatestRelease": "CANivore-26.0.0.0-Season2026.crf",
+                    "LatestVersion": "26.0.0.0",
                     "AvailRelease": [
-                        "CANivore-26.1.0.0-Season2026.crf",
                         "CANivore-26.0.0.0-Season2026.crf"
                     ]
                 },
