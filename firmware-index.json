@@ -119,8 +119,7 @@
                     "LatestRelease": "TalonFXS-26.1.0.0-Phoenix6.crf",
                     "LatestVersion": "26.1.0.0",
                     "AvailRelease": [
-                        "TalonFXS-26.1.0.0-Phoenix6.crf",
-                        "TalonFXS-26.0.0.0-Phoenix6.crf"
+                        "TalonFXS-26.1.0.0-Phoenix6.crf"
                     ]
                 },
                 {
@@ -128,8 +127,7 @@
                     "LatestRelease": "TalonFX-vF-26.1.0.0-Phoenix6.crf",
                     "LatestVersion": "26.1.0.0",
                     "AvailRelease": [
-                        "TalonFX-vF-26.1.0.0-Phoenix6.crf",
-                        "TalonFX-vF-26.0.0.0-Phoenix6.crf"
+                        "TalonFX-vF-26.1.0.0-Phoenix6.crf"
                     ]
                 },
                 {
@@ -137,8 +135,7 @@
                     "LatestRelease": "TalonFX-vC-26.1.0.0-Phoenix6.crf",
                     "LatestVersion": "26.1.0.0",
                     "AvailRelease": [
-                        "TalonFX-vC-26.1.0.0-Phoenix6.crf",
-                        "TalonFX-vC-26.0.0.0-Phoenix6.crf"
+                        "TalonFX-vC-26.1.0.0-Phoenix6.crf"
                     ]
                 },
                 {
@@ -146,8 +143,7 @@
                     "LatestRelease": "TalonFX-26.1.0.0-Phoenix6.crf",
                     "LatestVersion": "26.1.0.0",
                     "AvailRelease": [
-                        "TalonFX-26.1.0.0-Phoenix6.crf",
-                        "TalonFX-26.0.0.0-Phoenix6.crf"
+                        "TalonFX-26.1.0.0-Phoenix6.crf"
                     ]
                 },
                 {
@@ -155,8 +151,7 @@
                     "LatestRelease": "Pigeon2-26.1.0.0-Phoenix6.crf",
                     "LatestVersion": "26.1.0.0",
                     "AvailRelease": [
-                        "Pigeon2-26.1.0.0-Phoenix6.crf",
-                        "Pigeon2-26.0.0.0-Phoenix6.crf"
+                        "Pigeon2-26.1.0.0-Phoenix6.crf"
                     ]
                 },
                 {
@@ -164,8 +159,7 @@
                     "LatestRelease": "Pigeon2vS-26.1.0.0-Phoenix6.crf",
                     "LatestVersion": "26.1.0.0",
                     "AvailRelease": [
-                        "Pigeon2vS-26.1.0.0-Phoenix6.crf",
-                        "Pigeon2vS-26.0.0.0-Phoenix6.crf"
+                        "Pigeon2vS-26.1.0.0-Phoenix6.crf"
                     ]
                 },
                 {
@@ -174,8 +168,7 @@
                     "LatestVersion": "26.1.1.0",
                     "AvailRelease": [
                         "CANCoder-vK-26.1.1.0-Phoenix6.crf",
-                        "CANCoder-vK-26.1.0.0-Phoenix6.crf",
-                        "CANCoder-vK-26.0.0.0-Phoenix6.crf"
+                        "CANCoder-vK-26.1.0.0-Phoenix6.crf"
                     ]
                 },
                 {
@@ -184,8 +177,7 @@
                     "LatestVersion": "26.1.1.0",
                     "AvailRelease": [
                         "CANCoder-vH-26.1.1.0-Phoenix6.crf",
-                        "CANCoder-vH-26.1.0.0-Phoenix6.crf",
-                        "CANCoder-vH-26.0.0.0-Phoenix6.crf"
+                        "CANCoder-vH-26.1.0.0-Phoenix6.crf"
                     ]
                 },
                 {
@@ -193,8 +185,7 @@
                     "LatestRelease": "CANCoder-vT-26.1.0.0-Phoenix6.crf",
                     "LatestVersion": "26.1.0.0",
                     "AvailRelease": [
-                        "CANCoder-vT-26.1.0.0-Phoenix6.crf",
-                        "CANCoder-vT-26.0.0.0-Phoenix6.crf"
+                        "CANCoder-vT-26.1.0.0-Phoenix6.crf"
                     ]
                 },
                 {
@@ -210,8 +201,7 @@
                     "LatestRelease": "CANrange-26.1.0.0-Phoenix6.crf",
                     "LatestVersion": "26.1.0.0",
                     "AvailRelease": [
-                        "CANrange-26.1.0.0-Phoenix6.crf",
-                        "CANrange-26.0.0.0-Phoenix6.crf"
+                        "CANrange-26.1.0.0-Phoenix6.crf"
                     ]
                 },
                 {
@@ -219,8 +209,7 @@
                     "LatestRelease": "CANdi-26.1.0.0-Phoenix6.crf",
                     "LatestVersion": "26.1.0.0",
                     "AvailRelease": [
-                        "CANdi-26.1.0.0-Phoenix6.crf",
-                        "CANdi-26.0.0.0-Phoenix6.crf"
+                        "CANdi-26.1.0.0-Phoenix6.crf"
                     ]
                 },
                 {
@@ -228,8 +217,7 @@
                     "LatestRelease": "CANdle-26.1.0.0-Phoenix6.crf",
                     "LatestVersion": "26.1.0.0",
                     "AvailRelease": [
-                        "CANdle-26.1.0.0-Phoenix6.crf",
-                        "CANdle-26.0.0.0-Phoenix6.crf"
+                        "CANdle-26.1.0.0-Phoenix6.crf"
                     ]
                 }
             ],
@@ -239,17 +227,7 @@
                     "LatestRelease": "TalonFXS-25.5.1.0-Phoenix6.crf",
                     "LatestVersion": "25.5.1.0",
                     "AvailRelease": [
-                        "TalonFXS-25.5.1.0-Phoenix6.crf",
-                        "TalonFXS-25.5.0.0-Phoenix6.crf",
-                        "TalonFXS-25.4.4.0-Phoenix6.crf",
-                        "TalonFXS-25.4.3.0-Phoenix6.crf",
-                        "TalonFXS-25.4.2.1-Phoenix6.crf",
-                        "TalonFXS-25.4.1.1-Phoenix6.crf",
-                        "TalonFXS-25.4.0.0-Phoenix6.crf",
-                        "TalonFXS-25.3.0.0-Phoenix6.crf",
-                        "TalonFXS-25.2.3.0-Phoenix6.crf",
-                        "TalonFXS-25.2.2.0-Phoenix6.crf",
-                        "TalonFXS-25.2.1.2-Phoenix6.crf"
+                        "TalonFXS-25.5.1.0-Phoenix6.crf"
                     ]
                 },
                 {
@@ -258,13 +236,7 @@
                     "LatestVersion": "25.5.1.0",
                     "Errata": "Additional thermal protections added to compensate for the reduced thermal capacity of the X44.",
                     "AvailRelease": [
-                        "TalonFX-vF-25.5.1.0-Phoenix6.crf",
-                        "TalonFX-vF-25.5.0.0-Phoenix6.crf",
-                        "TalonFX-vF-25.3.0.0-Phoenix6.crf",
-                        "TalonFX-vF-25.2.3.0-Phoenix6.crf",
-                        "TalonFX-vF-25.2.2.0-Phoenix6.crf",
-                        "TalonFX-vF-25.2.1.0-Phoenix6.crf",
-                        "TalonFX-vF-25.2.0.0-Phoenix6.crf"
+                        "TalonFX-vF-25.5.1.0-Phoenix6.crf"
                     ]
                 },
                 {
@@ -273,14 +245,7 @@
                     "LatestVersion": "25.5.1.0",
                     "Errata": "Update available that improves detection of excessive heat events. Strongly recommend updating to properly detect such events.",
                     "AvailRelease": [
-                        "TalonFX-vC-25.5.1.0-Phoenix6.crf",
-                        "TalonFX-vC-25.5.0.0-Phoenix6.crf",
-                        "TalonFX-vC-25.3.0.0-Phoenix6.crf",
-                        "TalonFX-vC-25.2.3.0-Phoenix6.crf",
-                        "TalonFX-vC-25.2.2.0-Phoenix6.crf",
-                        "TalonFX-vC-25.2.1.0-Phoenix6.crf",
-                        "TalonFX-vC-25.2.0.0-Phoenix6.crf",
-                        "TalonFX-vC-25.1.0.0-Phoenix6.crf"
+                        "TalonFX-vC-25.5.1.0-Phoenix6.crf"
                     ]
                 },
                 {
@@ -289,14 +254,7 @@
                     "LatestVersion": "25.5.1.0",
                     "Errata": "Update available that improves detection of excessive heat events. Strongly recommend updating to properly detect such events.",
                     "AvailRelease": [
-                        "TalonFX-25.5.1.0-Phoenix6.crf",
-                        "TalonFX-25.5.0.0-Phoenix6.crf",
-                        "TalonFX-25.3.0.0-Phoenix6.crf",
-                        "TalonFX-25.2.3.0-Phoenix6.crf",
-                        "TalonFX-25.2.2.0-Phoenix6.crf",
-                        "TalonFX-25.2.1.0-Phoenix6.crf",
-                        "TalonFX-25.2.0.0-Phoenix6.crf",
-                        "TalonFX-25.1.0.0-Phoenix6.crf"
+                        "TalonFX-25.5.1.0-Phoenix6.crf"
                     ]
                 },
                 {
@@ -304,10 +262,7 @@
                     "LatestRelease": "Pigeon2-25.5.0.0-Phoenix6.crf",
                     "LatestVersion": "25.5.0.0",
                     "AvailRelease": [
-                        "Pigeon2-25.5.0.0-Phoenix6.crf",
-                        "Pigeon2-25.3.0.0-Phoenix6.crf",
-                        "Pigeon2-25.2.2.0-Phoenix6.crf",
-                        "Pigeon2-25.1.0.0-Phoenix6.crf"
+                        "Pigeon2-25.5.0.0-Phoenix6.crf"
                     ]
                 },
                 {
@@ -315,10 +270,7 @@
                     "LatestRelease": "Pigeon2vS-25.5.0.0-Phoenix6.crf",
                     "LatestVersion": "25.5.0.0",
                     "AvailRelease": [
-                        "Pigeon2vS-25.5.0.0-Phoenix6.crf",
-                        "Pigeon2vS-25.3.0.0-Phoenix6.crf",
-                        "Pigeon2vS-25.2.2.0-Phoenix6.crf",
-                        "Pigeon2vS-25.1.0.0-Phoenix6.crf"
+                        "Pigeon2vS-25.5.0.0-Phoenix6.crf"
                     ]
                 },
                 {
@@ -329,8 +281,7 @@
                     "LatestVersion": "25.5.1.0",
                     "AvailRelease": [
                         "CANCoder-vK-25.5.1.0-Phoenix6.crf",
-                        "CANCoder-vK-25.2.2.0-Phoenix6.crf",
-                        "CANCoder-vK-25.1.0.0-Phoenix6.crf"
+                        "CANCoder-vK-25.2.2.0-Phoenix6.crf"
                     ]
                 },
                 {
@@ -341,8 +292,7 @@
                     "LatestVersion": "25.5.1.0",
                     "AvailRelease": [
                         "CANCoder-vH-25.5.1.0-Phoenix6.crf",
-                        "CANCoder-vH-25.2.2.0-Phoenix6.crf",
-                        "CANCoder-vH-25.1.0.0-Phoenix6.crf"
+                        "CANCoder-vH-25.2.2.0-Phoenix6.crf"
                     ]
                 },
                 {
@@ -352,8 +302,7 @@
                     "CriticalVersion": "25.5.0.6",
                     "LatestVersion": "25.5.0.6",
                     "AvailRelease": [
-                        "CANCoder-vT-25.5.0.6-Phoenix6.crf",
-                        "CANCoder-vT-25.3.0.6-Phoenix6.crf"
+                        "CANCoder-vT-25.5.0.6-Phoenix6.crf"
                     ]
                 },
                 {
@@ -363,9 +312,7 @@
                     "CriticalVersion": "25.3.0.0",
                     "Errata": "Update available that fixes a critical silicon vendor errata.",
                     "AvailRelease": [
-                        "CANivore-25.4.0.0-Season2025.crf",
-                        "CANivore-25.3.0.0-Season2025.crf",
-                        "CANivore-25.0.0.0-Season2025.crf"
+                        "CANivore-25.4.0.0-Season2025.crf"
                     ]
                 },
                 {
@@ -373,9 +320,7 @@
                     "LatestRelease": "CANrange-25.5.0.0-Phoenix6.crf",
                     "LatestVersion": "25.5.0.0",
                     "AvailRelease": [
-                        "CANrange-25.5.0.0-Phoenix6.crf",
-                        "CANrange-25.2.2.0-Phoenix6.crf",
-                        "CANrange-25.1.0.0-Phoenix6.crf"
+                        "CANrange-25.5.0.0-Phoenix6.crf"
                     ]
                 },
                 {
@@ -383,13 +328,7 @@
                     "LatestRelease": "CANdi-25.5.0.0-Phoenix6.crf",
                     "LatestVersion": "25.5.0.0",
                     "AvailRelease": [
-                        "CANdi-25.5.0.0-Phoenix6.crf",
-                        "CANdi-25.4.3.0-Phoenix6.crf",
-                        "CANdi-25.4.1.0-Phoenix6.crf",
-                        "CANdi-25.3.0.0-Phoenix6.crf",
-                        "CANdi-25.2.3.0-Phoenix6.crf",
-                        "CANdi-25.2.2.0-Phoenix6.crf",
-                        "CANdi-25.2.0.0-Phoenix6.crf"
+                        "CANdi-25.5.0.0-Phoenix6.crf"
                     ]
                 },
                 {
