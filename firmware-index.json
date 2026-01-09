@@ -170,18 +170,20 @@
                 },
                 {
                     "Device": "CANCoder",
-                    "LatestRelease": "CANCoder-vK-26.1.0.0-Phoenix6.crf",
-                    "LatestVersion": "26.1.0.0",
+                    "LatestRelease": "CANCoder-vK-26.1.1.0-Phoenix6.crf",
+                    "LatestVersion": "26.1.1.0",
                     "AvailRelease": [
+                        "CANCoder-vK-26.1.1.0-Phoenix6.crf",
                         "CANCoder-vK-26.1.0.0-Phoenix6.crf",
                         "CANCoder-vK-26.0.0.0-Phoenix6.crf"
                     ]
                 },
                 {
                     "Device": "CANCodervers.H",
-                    "LatestRelease": "CANCoder-vH-26.1.0.0-Phoenix6.crf",
-                    "LatestVersion": "26.1.0.0",
+                    "LatestRelease": "CANCoder-vH-26.1.1.0-Phoenix6.crf",
+                    "LatestVersion": "26.1.1.0",
                     "AvailRelease": [
+                        "CANCoder-vH-26.1.1.0-Phoenix6.crf",
                         "CANCoder-vH-26.1.0.0-Phoenix6.crf",
                         "CANCoder-vH-26.0.0.0-Phoenix6.crf"
                     ]
