@@ -115,33 +115,37 @@
             "2026": [
                 {
                     "Device": "TalonFXS",
-                    "LatestRelease": "TalonFXS-26.1.0.0-Phoenix6.crf",
-                    "LatestVersion": "26.1.0.0",
+                    "LatestRelease": "TalonFXS-26.1.1.1-Phoenix6.crf",
+                    "LatestVersion": "26.1.1.1",
                     "AvailRelease": [
+                        "TalonFXS-26.1.1.1-Phoenix6.crf",
                         "TalonFXS-26.1.0.0-Phoenix6.crf"
                     ]
                 },
                 {
                     "Device": "TalonFXvers.F",
-                    "LatestRelease": "TalonFX-vF-26.1.0.0-Phoenix6.crf",
-                    "LatestVersion": "26.1.0.0",
+                    "LatestRelease": "TalonFX-vF-26.1.1.1-Phoenix6.crf",
+                    "LatestVersion": "26.1.1.1",
                     "AvailRelease": [
+                        "TalonFX-vF-26.1.1.1-Phoenix6.crf",
                         "TalonFX-vF-26.1.0.0-Phoenix6.crf"
                     ]
                 },
                 {
                     "Device": "TalonFXvers.C",
-                    "LatestRelease": "TalonFX-vC-26.1.0.0-Phoenix6.crf",
-                    "LatestVersion": "26.1.0.0",
+                    "LatestRelease": "TalonFX-vC-26.1.1.1-Phoenix6.crf",
+                    "LatestVersion": "26.1.1.1",
                     "AvailRelease": [
+                        "TalonFX-vC-26.1.1.1-Phoenix6.crf",
                         "TalonFX-vC-26.1.0.0-Phoenix6.crf"
                     ]
                 },
                 {
                     "Device": "TalonFX",
-                    "LatestRelease": "TalonFX-26.1.0.0-Phoenix6.crf",
-                    "LatestVersion": "26.1.0.0",
+                    "LatestRelease": "TalonFX-26.1.1.1-Phoenix6.crf",
+                    "LatestVersion": "26.1.1.1",
                     "AvailRelease": [
+                        "TalonFX-26.1.1.1-Phoenix6.crf",
                         "TalonFX-26.1.0.0-Phoenix6.crf"
                     ]
                 },
