@@ -134,9 +134,10 @@
                 },
                 {
                     "Device": "TalonFXvers.C",
-                    "LatestRelease": "TalonFX-vC-26.1.1.1-Phoenix6.crf",
-                    "LatestVersion": "26.1.1.1",
+                    "LatestRelease": "TalonFX-vC-26.2.0.0-Phoenix6.crf",
+                    "LatestVersion": "26.2.0.0",
                     "AvailRelease": [
+                        "TalonFX-vC-26.2.0.0-Phoenix6.crf",
                         "TalonFX-vC-26.1.1.1-Phoenix6.crf",
                         "TalonFX-vC-26.1.0.0-Phoenix6.crf"
                     ]
