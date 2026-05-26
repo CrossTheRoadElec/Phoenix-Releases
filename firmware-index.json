@@ -115,18 +115,20 @@
             "2026": [
                 {
                     "Device": "TalonFXS",
-                    "LatestRelease": "TalonFXS-26.1.1.1-Phoenix6.crf",
-                    "LatestVersion": "26.1.1.1",
+                    "LatestRelease": "TalonFXS-26.3.0.1-Phoenix6.crf",
+                    "LatestVersion": "26.3.0.1",
                     "AvailRelease": [
+                        "TalonFXS-26.3.0.1-Phoenix6.crf",
                         "TalonFXS-26.1.1.1-Phoenix6.crf",
                         "TalonFXS-26.1.0.0-Phoenix6.crf"
                     ]
                 },
                 {
                     "Device": "TalonFXvers.F",
-                    "LatestRelease": "TalonFX-vF-26.2.0.2-Phoenix6.crf",
-                    "LatestVersion": "26.2.0.2",
+                    "LatestRelease": "TalonFX-vF-26.3.0.0-Phoenix6.crf",
+                    "LatestVersion": "26.3.0.0",
                     "AvailRelease": [
+                        "TalonFX-vF-26.3.0.0-Phoenix6.crf",
                         "TalonFX-vF-26.2.0.2-Phoenix6.crf",
                         "TalonFX-vF-26.1.2.0-Phoenix6.crf",
                         "TalonFX-vF-26.1.1.1-Phoenix6.crf",
@@ -135,9 +137,10 @@
                 },
                 {
                     "Device": "TalonFXvers.C",
-                    "LatestRelease": "TalonFX-vC-26.2.0.0-Phoenix6.crf",
-                    "LatestVersion": "26.2.0.0",
+                    "LatestRelease": "TalonFX-vC-26.3.0.0-Phoenix6.crf",
+                    "LatestVersion": "26.3.0.0",
                     "AvailRelease": [
+                        "TalonFX-vC-26.3.0.0-Phoenix6.crf",
                         "TalonFX-vC-26.2.0.0-Phoenix6.crf",
                         "TalonFX-vC-26.1.1.1-Phoenix6.crf",
                         "TalonFX-vC-26.1.0.0-Phoenix6.crf"
@@ -220,9 +223,10 @@
                 },
                 {
                     "Device": "CANdle",
-                    "LatestRelease": "CANdle-26.1.0.0-Phoenix6.crf",
-                    "LatestVersion": "26.1.0.0",
+                    "LatestRelease": "CANdle-26.3.0.0-Phoenix6.crf",
+                    "LatestVersion": "26.3.0.0",
                     "AvailRelease": [
+                        "CANdle-26.3.0.0-Phoenix6.crf",
                         "CANdle-26.1.0.0-Phoenix6.crf"
                     ]
                 }
