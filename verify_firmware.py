@@ -1,7 +1,25 @@
+import filecmp
 import json
 import os
 import re
+import shutil
+import zipfile
 
+# Verify the firmware index has been copied everywhere
+if not filecmp.cmp("firmware-index.json", "ctr-device-firmware/firmware-index.json", shallow=False):
+    raise Exception("The firmware indexes in the ctr-device-firmware folder and zip do not match the top-level firmware-index.json")
+
+# Verify the firmware zip is what we expect
+with zipfile.ZipFile("ctr-device-firmware.zip", "r") as firmware_zip:
+    firmware_zip.extractall("ctr-device-firmware-zip")
+
+zip_cmp = filecmp.dircmp("ctr-device-firmware", "ctr-device-firmware-zip", ['README.md'], shallow=False)
+if zip_cmp.diff_files or zip_cmp.left_only or zip_cmp.right_only or zip_cmp.funny_files:
+    raise Exception("The ctr-device-firmware.zip file does not exactly match the ctr-device-firmware folder")
+
+shutil.rmtree("ctr-device-firmware-zip")
+
+# Now verify the firmware files in the zip
 with open("firmware-index.json", "r") as f:
     firmware_files = json.load(f)
 
