@@ -6,77 +6,77 @@
     },
     "Releases": {
         "v6": {
-            "2027-alpha-1": [
+            "2027-alpha-7": [
                 {
                     "Device": "TalonFXS",
-                    "LatestRelease": "TalonFXS-25.90.0.0-Phoenix6.crf",
-                    "LatestVersion": "25.90.0.0",
+                    "LatestRelease": "TalonFXS-26.70.0.0-Phoenix6.crf",
+                    "LatestVersion": "26.70.0.0",
                     "AvailRelease": [
-                        "TalonFXS-25.90.0.0-Phoenix6.crf"
+                        "TalonFXS-26.70.0.0-Phoenix6.crf"
                     ]
                 },
                 {
                     "Device": "TalonFXvers.F",
-                    "LatestRelease": "TalonFX-vF-25.90.0.0-Phoenix6.crf",
-                    "LatestVersion": "25.90.0.0",
+                    "LatestRelease": "TalonFX-vF-26.70.0.0-Phoenix6.crf",
+                    "LatestVersion": "26.70.0.0",
                     "AvailRelease": [
-                        "TalonFX-vF-25.90.0.0-Phoenix6.crf"
+                        "TalonFX-vF-26.70.0.0-Phoenix6.crf"
                     ]
                 },
                 {
                     "Device": "TalonFXvers.C",
-                    "LatestRelease": "TalonFX-vC-25.90.0.0-Phoenix6.crf",
-                    "LatestVersion": "25.90.0.0",
+                    "LatestRelease": "TalonFX-vC-26.70.0.0-Phoenix6.crf",
+                    "LatestVersion": "26.70.0.0",
                     "AvailRelease": [
-                        "TalonFX-vC-25.90.0.0-Phoenix6.crf"
+                        "TalonFX-vC-26.70.0.0-Phoenix6.crf"
                     ]
                 },
                 {
                     "Device": "TalonFX",
-                    "LatestRelease": "TalonFX-25.90.0.0-Phoenix6.crf",
-                    "LatestVersion": "25.90.0.0",
+                    "LatestRelease": "TalonFX-26.70.0.0-Phoenix6.crf",
+                    "LatestVersion": "26.70.0.0",
                     "AvailRelease": [
-                        "TalonFX-25.90.0.0-Phoenix6.crf"
+                        "TalonFX-26.70.0.0-Phoenix6.crf"
                     ]
                 },
                 {
                     "Device": "Pigeon2",
-                    "LatestRelease": "Pigeon2-25.90.0.0-Phoenix6.crf",
-                    "LatestVersion": "25.90.0.0",
+                    "LatestRelease": "Pigeon2-26.70.0.0-Phoenix6.crf",
+                    "LatestVersion": "26.70.0.0",
                     "AvailRelease": [
-                        "Pigeon2-25.90.0.0-Phoenix6.crf"
+                        "Pigeon2-26.70.0.0-Phoenix6.crf"
                     ]
                 },
                 {
                     "Device": "Pigeon2vers.S",
-                    "LatestRelease": "Pigeon2vS-25.90.0.0-Phoenix6.crf",
-                    "LatestVersion": "25.90.0.0",
+                    "LatestRelease": "Pigeon2vS-26.70.0.0-Phoenix6.crf",
+                    "LatestVersion": "26.70.0.0",
                     "AvailRelease": [
-                        "Pigeon2vS-25.90.0.0-Phoenix6.crf"
+                        "Pigeon2vS-26.70.0.0-Phoenix6.crf"
                     ]
                 },
                 {
                     "Device": "CANCoder",
-                    "LatestRelease": "CANCoder-vK-25.90.0.0-Phoenix6.crf",
-                    "LatestVersion": "25.90.0.0",
+                    "LatestRelease": "CANCoder-vK-26.70.0.0-Phoenix6.crf",
+                    "LatestVersion": "26.70.0.0",
                     "AvailRelease": [
-                        "CANCoder-vK-25.90.0.0-Phoenix6.crf"
+                        "CANCoder-vK-26.70.0.0-Phoenix6.crf"
                     ]
                 },
                 {
                     "Device": "CANCodervers.H",
-                    "LatestRelease": "CANCoder-vH-25.90.0.0-Phoenix6.crf",
-                    "LatestVersion": "25.90.0.0",
+                    "LatestRelease": "CANCoder-vH-26.70.0.0-Phoenix6.crf",
+                    "LatestVersion": "26.70.0.0",
                     "AvailRelease": [
-                        "CANCoder-vH-25.90.0.0-Phoenix6.crf"
+                        "CANCoder-vH-26.70.0.0-Phoenix6.crf"
                     ]
                 },
                 {
                     "Device": "CANCodervers.T",
-                    "LatestRelease": "CANCoder-vT-25.90.0.0-Phoenix6.crf",
-                    "LatestVersion": "25.90.0.0",
+                    "LatestRelease": "CANCoder-vT-26.70.0.0-Phoenix6.crf",
+                    "LatestVersion": "26.70.0.0",
                     "AvailRelease": [
-                        "CANCoder-vT-25.90.0.0-Phoenix6.crf"
+                        "CANCoder-vT-26.70.0.0-Phoenix6.crf"
                     ]
                 },
                 {
@@ -89,26 +89,26 @@
                 },
                 {
                     "Device": "CANrange",
-                    "LatestRelease": "CANrange-25.90.0.0-Phoenix6.crf",
-                    "LatestVersion": "25.90.0.0",
+                    "LatestRelease": "CANrange-26.70.0.0-Phoenix6.crf",
+                    "LatestVersion": "26.70.0.0",
                     "AvailRelease": [
-                        "CANrange-25.90.0.0-Phoenix6.crf"
+                        "CANrange-26.70.0.0-Phoenix6.crf"
                     ]
                 },
                 {
                     "Device": "CANdi",
-                    "LatestRelease": "CANdi-25.90.0.0-Phoenix6.crf",
-                    "LatestVersion": "25.90.0.0",
+                    "LatestRelease": "CANdi-26.70.0.0-Phoenix6.crf",
+                    "LatestVersion": "26.70.0.0",
                     "AvailRelease": [
-                        "CANdi-25.90.0.0-Phoenix6.crf"
+                        "CANdi-26.70.0.0-Phoenix6.crf"
                     ]
                 },
                 {
                     "Device": "CANdle",
-                    "LatestRelease": "CANdle-25.90.0.0-Phoenix6.crf",
-                    "LatestVersion": "25.90.0.0",
+                    "LatestRelease": "CANdle-26.70.0.0-Phoenix6.crf",
+                    "LatestVersion": "26.70.0.0",
                     "AvailRelease": [
-                        "CANdle-25.90.0.0-Phoenix6.crf"
+                        "CANdle-26.70.0.0-Phoenix6.crf"
                     ]
                 }
             ],
