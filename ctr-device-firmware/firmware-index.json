@@ -125,9 +125,10 @@
                 },
                 {
                     "Device": "TalonFXvers.F",
-                    "LatestRelease": "TalonFX-vF-26.3.0.0-Phoenix6.crf",
-                    "LatestVersion": "26.3.0.0",
+                    "LatestRelease": "TalonFX-vF-26.3.1.0-Phoenix6.crf",
+                    "LatestVersion": "26.3.1.0",
                     "AvailRelease": [
+                        "TalonFX-vF-26.3.1.0-Phoenix6.crf",
                         "TalonFX-vF-26.3.0.0-Phoenix6.crf",
                         "TalonFX-vF-26.2.0.2-Phoenix6.crf",
                         "TalonFX-vF-26.1.2.0-Phoenix6.crf",
@@ -137,9 +138,10 @@
                 },
                 {
                     "Device": "TalonFXvers.C",
-                    "LatestRelease": "TalonFX-vC-26.3.0.0-Phoenix6.crf",
-                    "LatestVersion": "26.3.0.0",
+                    "LatestRelease": "TalonFX-vC-26.3.1.0-Phoenix6.crf",
+                    "LatestVersion": "26.3.1.0",
                     "AvailRelease": [
+                        "TalonFX-vC-26.3.1.0-Phoenix6.crf",
                         "TalonFX-vC-26.3.0.0-Phoenix6.crf",
                         "TalonFX-vC-26.2.0.0-Phoenix6.crf",
                         "TalonFX-vC-26.1.1.1-Phoenix6.crf",
